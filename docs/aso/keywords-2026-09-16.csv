@@ -1,0 +1,112 @@
+cluster,keyword,us_pop,us_diff,ca_pop,ca_diff,au_pop,au_diff,gb_pop,gb_diff
+C1 Remove Background,remove background,55,82,30,50,34,50,47,57
+C1 Remove Background,background remover,59,79,52,57,52,55,56,65
+C1 Remove Background,background eraser,53,73,36,23,34,23,39,44
+C1 Remove Background,remove bg,7,57,32,19,7,19,7,19
+C1 Remove Background,photo background remover,9,74,7,51,6,51,9,50
+C1 Remove Background,transparent background,25,53,5,44,5,39,5,39
+C1 Remove Background,cut out photo,5,58,5,40,5,41,5,46
+C1 Remove Background,cutout,9,55,9,40,14,19,14,39
+C1 Remove Background,png maker,6,52,5,36,6,43,6,21
+C1 Remove Background,white background,7,47,8,44,6,37,6,42
+C1 Remove Background,change background,6,65,6,53,13,45,10,48
+C1 Remove Background,remove background from photo,5,58,5,37,5,23,5,39
+C1 Remove Background,background changer,24,51,46,41,24,39,47,49
+C1 Remove Background,blur background,6,58,8,21,9,17,6,23
+C2 Enhance / Upscale,photo enhancer,6,71,41,47,6,47,48,57
+C2 Enhance / Upscale,ai photo enhancer,52,74,47,51,47,46,8,58
+C2 Enhance / Upscale,image upscaler,8,41,8,46,8,19,8,38
+C2 Enhance / Upscale,upscale image,6,50,21,13,6,39,6,17
+C2 Enhance / Upscale,enhance photo quality,6,65,27,43,6,45,6,47
+C2 Enhance / Upscale,hd photo,9,59,5,52,9,44,9,52
+C2 Enhance / Upscale,photo quality enhancer,7,55,5,23,10,40,10,43
+C2 Enhance / Upscale,increase resolution,5,46,5,38,5,17,5,13
+C2 Enhance / Upscale,unblur photo,9,56,28,23,9,42,9,23
+C2 Enhance / Upscale,sharpen photo,5,46,5,17,5,17,5,17
+C2 Enhance / Upscale,fix blurry photo,6,45,17,37,6,36,6,41
+C2 Enhance / Upscale,clear photo,6,47,7,43,6,23,6,23
+C2 Enhance / Upscale,photo enhancer ai,5,48,5,23,5,42,5,47
+C3 Convert,heic to jpg,8,13,19,5,8,9,8,9
+C3 Convert,heic converter,22,17,5,11,5,5,5,9
+C3 Convert,heic to jpeg,9,23,12,15,12,5,9,5
+C3 Convert,image converter,50,42,9,15,6,13,51,13
+C3 Convert,photo converter,36,23,17,19,5,23,5,17
+C3 Convert,convert photo to jpg,5,45,5,40,5,39,5,40
+C3 Convert,png to jpg,5,23,5,13,5,11,5,9
+C3 Convert,jpg to png,5,19,5,11,5,11,5,7
+C3 Convert,webp converter,5,15,5,15,5,9,5,9
+C3 Convert,webp to jpg,5,7,5,5,5,5,5,5
+C3 Convert,photo format converter,5,21,5,21,5,19,5,19
+C3 Convert,convert image format,5,21,5,11,5,13,5,9
+C3 Convert,jpeg converter,7,23,9,13,6,13,6,15
+C3 Convert,heic,16,17,5,11,5,5,5,13
+C3 Convert,picture converter,21,39,5,21,5,19,5,19
+C4 Compress,photo compressor,24,19,25,11,24,11,24,15
+C4 Compress,compress photo,5,19,5,11,5,11,5,17
+C4 Compress,image compressor,7,19,5,15,7,9,7,19
+C4 Compress,reduce photo size,19,21,5,13,5,15,5,19
+C4 Compress,reduce image size,6,21,5,21,6,15,6,17
+C4 Compress,shrink photo,5,48,5,17,5,15,5,19
+C4 Compress,photo size reducer,13,23,5,15,12,17,12,19
+C4 Compress,compress image,5,19,5,17,5,13,5,15
+C4 Compress,compress jpeg,5,37,5,13,5,11,5,17
+C4 Compress,make photo smaller,5,46,5,23,5,44,5,21
+C4 Compress,compress pictures,5,21,5,13,5,11,5,15
+C5 Resize,resize photo,6,48,9,21,8,17,7,37
+C5 Resize,image resizer,7,48,8,17,6,21,7,21
+C5 Resize,photo resizer,9,59,9,40,9,17,9,19
+C5 Resize,resize image,9,50,7,21,9,21,9,40
+C5 Resize,resize picture,5,48,5,9,5,11,5,15
+C5 Resize,change photo size,5,43,5,23,5,38,5,37
+C5 Resize,photo dimensions,5,15,5,15,5,23,5,15
+C5 Resize,crop and resize,5,9,5,7,5,9,5,11
+C5 Resize,resize for instagram,5,55,5,42,5,21,5,48
+C5 Resize,photo size,5,45,5,44,5,42,5,41
+C5 Resize,image size,45,49,46,35,34,21,48,15
+C6 Vectorize,image to svg,5,36,5,13,5,9,5,9
+C6 Vectorize,png to svg,5,39,5,9,5,9,5,7
+C6 Vectorize,jpg to svg,5,19,5,13,5,11,5,15
+C6 Vectorize,vectorize image,5,19,5,13,5,13,5,13
+C6 Vectorize,vector converter,5,46,5,21,5,21,5,17
+C6 Vectorize,svg converter,8,37,22,15,6,15,15,15
+C6 Vectorize,image to vector,5,23,5,17,5,11,5,17
+C6 Vectorize,convert to svg,5,23,5,13,5,11,5,11
+C6 Vectorize,svg maker,16,46,5,23,5,21,5,15
+C6 Vectorize,logo to vector,5,7,5,15,5,17,5,13
+C6 Vectorize,vectorizer,5,39,5,17,5,17,5,17
+C7 Object Remover,object remover,6,57,6,43,9,41,9,51
+C7 Object Remover,remove objects from photo,54,74,5,43,47,40,47,46
+C7 Object Remover,magic eraser,56,53,49,23,50,19,53,41
+C7 Object Remover,remove people from photo,7,48,28,37,8,23,8,21
+C7 Object Remover,remove unwanted objects,5,23,5,19,5,17,5,19
+C7 Object Remover,photo cleanup,32,46,5,40,5,42,5,23
+C7 Object Remover,erase objects,7,73,37,42,7,23,7,49
+C7 Object Remover,remove text from photo,13,23,5,19,5,19,5,19
+C7 Object Remover,object eraser,6,55,23,43,6,43,6,46
+C7 Object Remover,photo cleaner,49,62,41,48,41,41,47,48
+C7 Object Remover,clean up photo,5,42,5,43,5,40,5,44
+C7 Object Remover,ai eraser,20,50,5,45,19,37,18,50
+C7 Object Remover,photo eraser,53,77,48,52,8,43,8,51
+C8 Restore,photo restoration,9,48,9,39,9,38,9,47
+C8 Restore,restore old photos,12,17,6,23,14,41,14,19
+C8 Restore,old photo restoration,14,17,5,11,17,11,13,15
+C8 Restore,repair old photos,5,17,5,11,5,11,5,15
+C8 Restore,colorize photo,5,37,5,15,5,11,5,17
+C8 Restore,colorize black and white,5,13,5,7,5,7,5,9
+C8 Restore,face restoration,5,17,5,15,5,9,5,11
+C8 Restore,fix old photos,7,23,11,11,7,11,11,41
+C8 Restore,photo restore,7,50,21,45,9,48,9,40
+C9 Passport Photo,passport photo,61,60,51,44,9,38,9,42
+C9 Passport Photo,id photo,9,52,31,23,9,21,9,48
+C9 Passport Photo,passport photo maker,6,55,7,19,6,19,6,40
+C9 Passport Photo,passport photo app,47,51,48,40,55,43,61,50
+C9 Passport Photo,visa photo,6,45,6,19,6,19,6,21
+C9 Passport Photo,id photo maker,25,41,5,15,5,15,5,35
+C9 Passport Photo,passport size photo,5,48,6,37,6,42,6,40
+C9 Passport Photo,photo for documents,5,39,5,53,5,45,5,19
+C10 Generic,photo editor,73,89,70,74,70,71,72,76
+C10 Generic,photo tools,5,57,5,39,5,39,5,21
+C10 Generic,image tools,5,5,5,9,5,11,5,9
+C10 Generic,ai photo editor,65,86,59,70,61,65,68,80
+C10 Generic,picture editor,59,90,42,73,46,71,53,74
+C10 Generic,photo utilities,5,71,5,17,5,13,5,15

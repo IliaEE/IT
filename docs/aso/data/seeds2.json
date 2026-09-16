@@ -1,0 +1,18 @@
+{
+ "U1 Photo to PDF": ["photo to pdf","image to pdf","jpg to pdf","pdf to jpg","picture to pdf","convert photo to pdf","photos to pdf","pdf to image"],
+ "U2 Crop": ["crop photo","photo crop","crop image","circle crop","crop picture","photo cropper","cut photo"],
+ "U3 Rotate / Flip / Mirror": ["rotate photo","flip photo","mirror photo","mirror image","flip image","rotate image","mirror picture"],
+ "U4 Watermark": ["add watermark","watermark photo","watermark maker","watermark app","photo watermark","add logo to photo","copyright photo"],
+ "U5 Metadata / EXIF": ["exif","exif viewer","photo metadata","remove metadata","exif editor","photo location","metadata remover","photo info"],
+ "U6 Blur / Censor": ["blur photo","blur face","pixelate","censor photo","blur part of photo","hide face","blur image"],
+ "U7 Print / DPI": ["print size","photo print size","dpi","change dpi","4x6 photo","resize for print","dpi changer","photo to print"],
+ "U8 No-crop / Square / Border": ["no crop","square fit","square photo","white border","photo border","fit photo","instagram no crop","blur border"],
+ "U9 Combine / Stitch": ["combine photos","merge photos","stitch photos","long screenshot","screenshot stitch","photo stitch","join photos","screenshot editor"],
+ "U10 Batch": ["batch resize","bulk resize","batch compress","bulk photo resizer","batch convert","resize multiple photos"],
+ "U11 GIF / Live Photo": ["gif maker","video to gif","live photo to gif","live photo to video","photo to gif","gif converter","gif to video"],
+ "U12 Size in KB": ["resize photo to 20kb","photo size kb","compress photo to 100kb","reduce photo size kb","photo kb reducer","photo size converter"],
+ "U13 OCR / Text": ["image to text","photo to text","ocr scanner","extract text from image","text scanner","copy text from photo"],
+ "U14 Date stamp": ["timestamp camera","date stamp photo","add date to photo","timestamp photo","photo date stamp"],
+ "U15 Format specifics": ["webp to png","tiff to jpg","raw to jpg","dng to jpg","bmp to jpg","avif converter","jfif to jpg","png converter","jpg converter"],
+ "U16 Photo cleaner / storage": ["duplicate photos","free up space","clean photos","duplicate photo remover","photo storage cleaner","similar photos"]
+}

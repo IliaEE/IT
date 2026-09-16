@@ -1,0 +1,3174 @@
+{
+ "us": {
+  "photo to pdf": {
+   "difficulty": 69,
+   "keyword": "photo to pdf",
+   "popularity": 62,
+   "skipped": false,
+   "success": true
+  },
+  "image to pdf": {
+   "difficulty": 52,
+   "keyword": "image to pdf",
+   "popularity": 54,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to pdf": {
+   "difficulty": 40,
+   "keyword": "jpg to pdf",
+   "popularity": 57,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to jpg": {
+   "difficulty": 17,
+   "keyword": "pdf to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture to pdf": {
+   "difficulty": 48,
+   "keyword": "picture to pdf",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to pdf": {
+   "difficulty": 21,
+   "keyword": "convert photo to pdf",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "photos to pdf": {
+   "difficulty": 45,
+   "keyword": "photos to pdf",
+   "popularity": 58,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to image": {
+   "difficulty": 7,
+   "keyword": "pdf to image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop photo": {
+   "difficulty": 81,
+   "keyword": "crop photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo crop": {
+   "difficulty": 67,
+   "keyword": "photo crop",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "crop image": {
+   "difficulty": 42,
+   "keyword": "crop image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "circle crop": {
+   "difficulty": 15,
+   "keyword": "circle crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop picture": {
+   "difficulty": 57,
+   "keyword": "crop picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cropper": {
+   "difficulty": 46,
+   "keyword": "photo cropper",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "cut photo": {
+   "difficulty": 53,
+   "keyword": "cut photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate photo": {
+   "difficulty": 17,
+   "keyword": "rotate photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip photo": {
+   "difficulty": 21,
+   "keyword": "flip photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror photo": {
+   "difficulty": 23,
+   "keyword": "mirror photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror image": {
+   "difficulty": 41,
+   "keyword": "mirror image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip image": {
+   "difficulty": 19,
+   "keyword": "flip image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate image": {
+   "difficulty": 17,
+   "keyword": "rotate image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror picture": {
+   "difficulty": 37,
+   "keyword": "mirror picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add watermark": {
+   "difficulty": 39,
+   "keyword": "add watermark",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "watermark photo": {
+   "difficulty": 42,
+   "keyword": "watermark photo",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "watermark maker": {
+   "difficulty": 62,
+   "keyword": "watermark maker",
+   "popularity": 26,
+   "skipped": false,
+   "success": true
+  },
+  "watermark app": {
+   "difficulty": 48,
+   "keyword": "watermark app",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo watermark": {
+   "difficulty": 45,
+   "keyword": "photo watermark",
+   "popularity": 15,
+   "skipped": false,
+   "success": true
+  },
+  "add logo to photo": {
+   "difficulty": 15,
+   "keyword": "add logo to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "copyright photo": {
+   "difficulty": 13,
+   "keyword": "copyright photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif": {
+   "difficulty": 35,
+   "keyword": "exif",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "exif viewer": {
+   "difficulty": 19,
+   "keyword": "exif viewer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo metadata": {
+   "difficulty": 21,
+   "keyword": "photo metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "remove metadata": {
+   "difficulty": 15,
+   "keyword": "remove metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif editor": {
+   "difficulty": 23,
+   "keyword": "exif editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo location": {
+   "difficulty": 23,
+   "keyword": "photo location",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "metadata remover": {
+   "difficulty": 15,
+   "keyword": "metadata remover",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo info": {
+   "difficulty": 21,
+   "keyword": "photo info",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur photo": {
+   "difficulty": 65,
+   "keyword": "blur photo",
+   "popularity": 55,
+   "skipped": false,
+   "success": true
+  },
+  "blur face": {
+   "difficulty": 45,
+   "keyword": "blur face",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pixelate": {
+   "difficulty": 21,
+   "keyword": "pixelate",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "censor photo": {
+   "difficulty": 43,
+   "keyword": "censor photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur part of photo": {
+   "difficulty": 50,
+   "keyword": "blur part of photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "hide face": {
+   "difficulty": 21,
+   "keyword": "hide face",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur image": {
+   "difficulty": 42,
+   "keyword": "blur image",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "print size": {
+   "difficulty": 41,
+   "keyword": "print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo print size": {
+   "difficulty": 56,
+   "keyword": "photo print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi": {
+   "difficulty": 13,
+   "keyword": "dpi",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "change dpi": {
+   "difficulty": 31,
+   "keyword": "change dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "4x6 photo": {
+   "difficulty": 50,
+   "keyword": "4x6 photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for print": {
+   "difficulty": 42,
+   "keyword": "resize for print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi changer": {
+   "difficulty": 44,
+   "keyword": "dpi changer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to print": {
+   "difficulty": 62,
+   "keyword": "photo to print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "no crop": {
+   "difficulty": 57,
+   "keyword": "no crop",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "square fit": {
+   "difficulty": 43,
+   "keyword": "square fit",
+   "popularity": 40,
+   "skipped": false,
+   "success": true
+  },
+  "square photo": {
+   "difficulty": 41,
+   "keyword": "square photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "white border": {
+   "difficulty": 33,
+   "keyword": "white border",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo border": {
+   "difficulty": 40,
+   "keyword": "photo border",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "fit photo": {
+   "difficulty": 57,
+   "keyword": "fit photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "instagram no crop": {
+   "difficulty": 50,
+   "keyword": "instagram no crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur border": {
+   "difficulty": 19,
+   "keyword": "blur border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "combine photos": {
+   "difficulty": 56,
+   "keyword": "combine photos",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "merge photos": {
+   "difficulty": 48,
+   "keyword": "merge photos",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "stitch photos": {
+   "difficulty": 49,
+   "keyword": "stitch photos",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "long screenshot": {
+   "difficulty": 36,
+   "keyword": "long screenshot",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot stitch": {
+   "difficulty": 23,
+   "keyword": "screenshot stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo stitch": {
+   "difficulty": 52,
+   "keyword": "photo stitch",
+   "popularity": 21,
+   "skipped": false,
+   "success": true
+  },
+  "join photos": {
+   "difficulty": 52,
+   "keyword": "join photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot editor": {
+   "difficulty": 7,
+   "keyword": "screenshot editor",
+   "popularity": 16,
+   "skipped": false,
+   "success": true
+  },
+  "batch resize": {
+   "difficulty": 17,
+   "keyword": "batch resize",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "bulk resize": {
+   "difficulty": 13,
+   "keyword": "bulk resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch compress": {
+   "difficulty": 9,
+   "keyword": "batch compress",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bulk photo resizer": {
+   "difficulty": 15,
+   "keyword": "bulk photo resizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch convert": {
+   "difficulty": 5,
+   "keyword": "batch convert",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize multiple photos": {
+   "difficulty": 23,
+   "keyword": "resize multiple photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif maker": {
+   "difficulty": 65,
+   "keyword": "gif maker",
+   "popularity": 57,
+   "skipped": false,
+   "success": true
+  },
+  "video to gif": {
+   "difficulty": 52,
+   "keyword": "video to gif",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to gif": {
+   "difficulty": 40,
+   "keyword": "live photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to video": {
+   "difficulty": 23,
+   "keyword": "live photo to video",
+   "popularity": 20,
+   "skipped": false,
+   "success": true
+  },
+  "photo to gif": {
+   "difficulty": 51,
+   "keyword": "photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif converter": {
+   "difficulty": 50,
+   "keyword": "gif converter",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "gif to video": {
+   "difficulty": 40,
+   "keyword": "gif to video",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo to 20kb": {
+   "difficulty": 19,
+   "keyword": "resize photo to 20kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size kb": {
+   "difficulty": 11,
+   "keyword": "photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo to 100kb": {
+   "difficulty": 15,
+   "keyword": "compress photo to 100kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size kb": {
+   "difficulty": 19,
+   "keyword": "reduce photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo kb reducer": {
+   "difficulty": 17,
+   "keyword": "photo kb reducer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size converter": {
+   "difficulty": 23,
+   "keyword": "photo size converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to text": {
+   "difficulty": 17,
+   "keyword": "image to text",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo to text": {
+   "difficulty": 36,
+   "keyword": "photo to text",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "ocr scanner": {
+   "difficulty": 41,
+   "keyword": "ocr scanner",
+   "popularity": 16,
+   "skipped": false,
+   "success": true
+  },
+  "extract text from image": {
+   "difficulty": 13,
+   "keyword": "extract text from image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "text scanner": {
+   "difficulty": 53,
+   "keyword": "text scanner",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "copy text from photo": {
+   "difficulty": 17,
+   "keyword": "copy text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp camera": {
+   "difficulty": 52,
+   "keyword": "timestamp camera",
+   "popularity": 61,
+   "skipped": false,
+   "success": true
+  },
+  "date stamp photo": {
+   "difficulty": 19,
+   "keyword": "date stamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add date to photo": {
+   "difficulty": 7,
+   "keyword": "add date to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp photo": {
+   "difficulty": 41,
+   "keyword": "timestamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo date stamp": {
+   "difficulty": 15,
+   "keyword": "photo date stamp",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to png": {
+   "difficulty": 5,
+   "keyword": "webp to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "tiff to jpg": {
+   "difficulty": 13,
+   "keyword": "tiff to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "raw to jpg": {
+   "difficulty": 44,
+   "keyword": "raw to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dng to jpg": {
+   "difficulty": 44,
+   "keyword": "dng to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bmp to jpg": {
+   "difficulty": 17,
+   "keyword": "bmp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "avif converter": {
+   "difficulty": 5,
+   "keyword": "avif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jfif to jpg": {
+   "difficulty": 21,
+   "keyword": "jfif to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png converter": {
+   "difficulty": 48,
+   "keyword": "png converter",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "jpg converter": {
+   "difficulty": 21,
+   "keyword": "jpg converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photos": {
+   "difficulty": 39,
+   "keyword": "duplicate photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "free up space": {
+   "difficulty": 43,
+   "keyword": "free up space",
+   "popularity": 15,
+   "skipped": false,
+   "success": true
+  },
+  "clean photos": {
+   "difficulty": 55,
+   "keyword": "clean photos",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photo remover": {
+   "difficulty": 19,
+   "keyword": "duplicate photo remover",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo storage cleaner": {
+   "difficulty": 40,
+   "keyword": "photo storage cleaner",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "similar photos": {
+   "difficulty": 39,
+   "keyword": "similar photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "ca": {
+  "photo to pdf": {
+   "difficulty": 39,
+   "keyword": "photo to pdf",
+   "popularity": 58,
+   "skipped": false,
+   "success": true
+  },
+  "image to pdf": {
+   "difficulty": 19,
+   "keyword": "image to pdf",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to pdf": {
+   "difficulty": 38,
+   "keyword": "jpg to pdf",
+   "popularity": 31,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to jpg": {
+   "difficulty": 21,
+   "keyword": "pdf to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture to pdf": {
+   "difficulty": 23,
+   "keyword": "picture to pdf",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to pdf": {
+   "difficulty": 17,
+   "keyword": "convert photo to pdf",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photos to pdf": {
+   "difficulty": 21,
+   "keyword": "photos to pdf",
+   "popularity": 37,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to image": {
+   "difficulty": 37,
+   "keyword": "pdf to image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop photo": {
+   "difficulty": 46,
+   "keyword": "crop photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo crop": {
+   "difficulty": 40,
+   "keyword": "photo crop",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "crop image": {
+   "difficulty": 23,
+   "keyword": "crop image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "circle crop": {
+   "difficulty": 7,
+   "keyword": "circle crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop picture": {
+   "difficulty": 46,
+   "keyword": "crop picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cropper": {
+   "difficulty": 53,
+   "keyword": "photo cropper",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cut photo": {
+   "difficulty": 43,
+   "keyword": "cut photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate photo": {
+   "difficulty": 9,
+   "keyword": "rotate photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip photo": {
+   "difficulty": 9,
+   "keyword": "flip photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror photo": {
+   "difficulty": 15,
+   "keyword": "mirror photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror image": {
+   "difficulty": 15,
+   "keyword": "mirror image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip image": {
+   "difficulty": 17,
+   "keyword": "flip image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate image": {
+   "difficulty": 7,
+   "keyword": "rotate image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror picture": {
+   "difficulty": 19,
+   "keyword": "mirror picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add watermark": {
+   "difficulty": 15,
+   "keyword": "add watermark",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "watermark photo": {
+   "difficulty": 17,
+   "keyword": "watermark photo",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "watermark maker": {
+   "difficulty": 23,
+   "keyword": "watermark maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "watermark app": {
+   "difficulty": 19,
+   "keyword": "watermark app",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo watermark": {
+   "difficulty": 17,
+   "keyword": "photo watermark",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add logo to photo": {
+   "difficulty": 38,
+   "keyword": "add logo to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "copyright photo": {
+   "difficulty": 13,
+   "keyword": "copyright photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif": {
+   "difficulty": 9,
+   "keyword": "exif",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "exif viewer": {
+   "difficulty": 9,
+   "keyword": "exif viewer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo metadata": {
+   "difficulty": 11,
+   "keyword": "photo metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "remove metadata": {
+   "difficulty": 9,
+   "keyword": "remove metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif editor": {
+   "difficulty": 7,
+   "keyword": "exif editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo location": {
+   "difficulty": 17,
+   "keyword": "photo location",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "metadata remover": {
+   "difficulty": 7,
+   "keyword": "metadata remover",
+   "popularity": 20,
+   "skipped": false,
+   "success": true
+  },
+  "photo info": {
+   "difficulty": 33,
+   "keyword": "photo info",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur photo": {
+   "difficulty": 21,
+   "keyword": "blur photo",
+   "popularity": 32,
+   "skipped": false,
+   "success": true
+  },
+  "blur face": {
+   "difficulty": 19,
+   "keyword": "blur face",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pixelate": {
+   "difficulty": 15,
+   "keyword": "pixelate",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "censor photo": {
+   "difficulty": 13,
+   "keyword": "censor photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur part of photo": {
+   "difficulty": 23,
+   "keyword": "blur part of photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "hide face": {
+   "difficulty": 7,
+   "keyword": "hide face",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur image": {
+   "difficulty": 19,
+   "keyword": "blur image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "print size": {
+   "difficulty": 15,
+   "keyword": "print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo print size": {
+   "difficulty": 21,
+   "keyword": "photo print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi": {
+   "difficulty": 9,
+   "keyword": "dpi",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "change dpi": {
+   "difficulty": 9,
+   "keyword": "change dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "4x6 photo": {
+   "difficulty": 46,
+   "keyword": "4x6 photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for print": {
+   "difficulty": 21,
+   "keyword": "resize for print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi changer": {
+   "difficulty": 9,
+   "keyword": "dpi changer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to print": {
+   "difficulty": 42,
+   "keyword": "photo to print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "no crop": {
+   "difficulty": 39,
+   "keyword": "no crop",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "square fit": {
+   "difficulty": 39,
+   "keyword": "square fit",
+   "popularity": 37,
+   "skipped": false,
+   "success": true
+  },
+  "square photo": {
+   "difficulty": 39,
+   "keyword": "square photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "white border": {
+   "difficulty": 15,
+   "keyword": "white border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo border": {
+   "difficulty": 17,
+   "keyword": "photo border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fit photo": {
+   "difficulty": 17,
+   "keyword": "fit photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "instagram no crop": {
+   "difficulty": 21,
+   "keyword": "instagram no crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur border": {
+   "difficulty": 43,
+   "keyword": "blur border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "combine photos": {
+   "difficulty": 46,
+   "keyword": "combine photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "merge photos": {
+   "difficulty": 40,
+   "keyword": "merge photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "stitch photos": {
+   "difficulty": 46,
+   "keyword": "stitch photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "long screenshot": {
+   "difficulty": 9,
+   "keyword": "long screenshot",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot stitch": {
+   "difficulty": 11,
+   "keyword": "screenshot stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo stitch": {
+   "difficulty": 23,
+   "keyword": "photo stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "join photos": {
+   "difficulty": 38,
+   "keyword": "join photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot editor": {
+   "difficulty": 5,
+   "keyword": "screenshot editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch resize": {
+   "difficulty": 15,
+   "keyword": "batch resize",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "bulk resize": {
+   "difficulty": 21,
+   "keyword": "bulk resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch compress": {
+   "difficulty": 11,
+   "keyword": "batch compress",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bulk photo resizer": {
+   "difficulty": 9,
+   "keyword": "bulk photo resizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch convert": {
+   "difficulty": 7,
+   "keyword": "batch convert",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize multiple photos": {
+   "difficulty": 9,
+   "keyword": "resize multiple photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif maker": {
+   "difficulty": 46,
+   "keyword": "gif maker",
+   "popularity": 48,
+   "skipped": false,
+   "success": true
+  },
+  "video to gif": {
+   "difficulty": 37,
+   "keyword": "video to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to gif": {
+   "difficulty": 13,
+   "keyword": "live photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to video": {
+   "difficulty": 13,
+   "keyword": "live photo to video",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to gif": {
+   "difficulty": 36,
+   "keyword": "photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif converter": {
+   "difficulty": 23,
+   "keyword": "gif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif to video": {
+   "difficulty": 37,
+   "keyword": "gif to video",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo to 20kb": {
+   "difficulty": 9,
+   "keyword": "resize photo to 20kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size kb": {
+   "difficulty": 40,
+   "keyword": "photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo to 100kb": {
+   "difficulty": 13,
+   "keyword": "compress photo to 100kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size kb": {
+   "difficulty": 15,
+   "keyword": "reduce photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo kb reducer": {
+   "difficulty": 11,
+   "keyword": "photo kb reducer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size converter": {
+   "difficulty": 19,
+   "keyword": "photo size converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to text": {
+   "difficulty": 11,
+   "keyword": "image to text",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo to text": {
+   "difficulty": 21,
+   "keyword": "photo to text",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ocr scanner": {
+   "difficulty": 49,
+   "keyword": "ocr scanner",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "extract text from image": {
+   "difficulty": 11,
+   "keyword": "extract text from image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "text scanner": {
+   "difficulty": 15,
+   "keyword": "text scanner",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "copy text from photo": {
+   "difficulty": 15,
+   "keyword": "copy text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp camera": {
+   "difficulty": 19,
+   "keyword": "timestamp camera",
+   "popularity": 57,
+   "skipped": false,
+   "success": true
+  },
+  "date stamp photo": {
+   "difficulty": 11,
+   "keyword": "date stamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add date to photo": {
+   "difficulty": 67,
+   "keyword": "add date to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp photo": {
+   "difficulty": 23,
+   "keyword": "timestamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo date stamp": {
+   "difficulty": 15,
+   "keyword": "photo date stamp",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to png": {
+   "difficulty": 15,
+   "keyword": "webp to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "tiff to jpg": {
+   "difficulty": 9,
+   "keyword": "tiff to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "raw to jpg": {
+   "difficulty": 21,
+   "keyword": "raw to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dng to jpg": {
+   "difficulty": 13,
+   "keyword": "dng to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bmp to jpg": {
+   "difficulty": 13,
+   "keyword": "bmp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "avif converter": {
+   "difficulty": 7,
+   "keyword": "avif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jfif to jpg": {
+   "difficulty": 17,
+   "keyword": "jfif to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png converter": {
+   "difficulty": 23,
+   "keyword": "png converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "jpg converter": {
+   "difficulty": 19,
+   "keyword": "jpg converter",
+   "popularity": 25,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photos": {
+   "difficulty": 17,
+   "keyword": "duplicate photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "free up space": {
+   "difficulty": 41,
+   "keyword": "free up space",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "clean photos": {
+   "difficulty": 23,
+   "keyword": "clean photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photo remover": {
+   "difficulty": 11,
+   "keyword": "duplicate photo remover",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo storage cleaner": {
+   "difficulty": 37,
+   "keyword": "photo storage cleaner",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "similar photos": {
+   "difficulty": 15,
+   "keyword": "similar photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "au": {
+  "photo to pdf": {
+   "difficulty": 43,
+   "keyword": "photo to pdf",
+   "popularity": 32,
+   "skipped": false,
+   "success": true
+  },
+  "image to pdf": {
+   "difficulty": 17,
+   "keyword": "image to pdf",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to pdf": {
+   "difficulty": 23,
+   "keyword": "jpg to pdf",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to jpg": {
+   "difficulty": 39,
+   "keyword": "pdf to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture to pdf": {
+   "difficulty": 48,
+   "keyword": "picture to pdf",
+   "popularity": 11,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to pdf": {
+   "difficulty": 21,
+   "keyword": "convert photo to pdf",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photos to pdf": {
+   "difficulty": 17,
+   "keyword": "photos to pdf",
+   "popularity": 51,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to image": {
+   "difficulty": 17,
+   "keyword": "pdf to image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop photo": {
+   "difficulty": 43,
+   "keyword": "crop photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo crop": {
+   "difficulty": 41,
+   "keyword": "photo crop",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "crop image": {
+   "difficulty": 39,
+   "keyword": "crop image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "circle crop": {
+   "difficulty": 7,
+   "keyword": "circle crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop picture": {
+   "difficulty": 49,
+   "keyword": "crop picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cropper": {
+   "difficulty": 41,
+   "keyword": "photo cropper",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "cut photo": {
+   "difficulty": 45,
+   "keyword": "cut photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate photo": {
+   "difficulty": 13,
+   "keyword": "rotate photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip photo": {
+   "difficulty": 11,
+   "keyword": "flip photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror photo": {
+   "difficulty": 17,
+   "keyword": "mirror photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror image": {
+   "difficulty": 19,
+   "keyword": "mirror image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip image": {
+   "difficulty": 42,
+   "keyword": "flip image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate image": {
+   "difficulty": 21,
+   "keyword": "rotate image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror picture": {
+   "difficulty": 17,
+   "keyword": "mirror picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add watermark": {
+   "difficulty": 15,
+   "keyword": "add watermark",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "watermark photo": {
+   "difficulty": 13,
+   "keyword": "watermark photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "watermark maker": {
+   "difficulty": 19,
+   "keyword": "watermark maker",
+   "popularity": 26,
+   "skipped": false,
+   "success": true
+  },
+  "watermark app": {
+   "difficulty": 17,
+   "keyword": "watermark app",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo watermark": {
+   "difficulty": 13,
+   "keyword": "photo watermark",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add logo to photo": {
+   "difficulty": 44,
+   "keyword": "add logo to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "copyright photo": {
+   "difficulty": 11,
+   "keyword": "copyright photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif": {
+   "difficulty": 11,
+   "keyword": "exif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif viewer": {
+   "difficulty": 9,
+   "keyword": "exif viewer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo metadata": {
+   "difficulty": 11,
+   "keyword": "photo metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "remove metadata": {
+   "difficulty": 9,
+   "keyword": "remove metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif editor": {
+   "difficulty": 11,
+   "keyword": "exif editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo location": {
+   "difficulty": 13,
+   "keyword": "photo location",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "metadata remover": {
+   "difficulty": 9,
+   "keyword": "metadata remover",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo info": {
+   "difficulty": 33,
+   "keyword": "photo info",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur photo": {
+   "difficulty": 21,
+   "keyword": "blur photo",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "blur face": {
+   "difficulty": 19,
+   "keyword": "blur face",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pixelate": {
+   "difficulty": 15,
+   "keyword": "pixelate",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "censor photo": {
+   "difficulty": 13,
+   "keyword": "censor photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur part of photo": {
+   "difficulty": 23,
+   "keyword": "blur part of photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "hide face": {
+   "difficulty": 7,
+   "keyword": "hide face",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur image": {
+   "difficulty": 13,
+   "keyword": "blur image",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "print size": {
+   "difficulty": 19,
+   "keyword": "print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo print size": {
+   "difficulty": 38,
+   "keyword": "photo print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi": {
+   "difficulty": 7,
+   "keyword": "dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change dpi": {
+   "difficulty": 15,
+   "keyword": "change dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "4x6 photo": {
+   "difficulty": 42,
+   "keyword": "4x6 photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for print": {
+   "difficulty": 17,
+   "keyword": "resize for print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi changer": {
+   "difficulty": 11,
+   "keyword": "dpi changer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to print": {
+   "difficulty": 43,
+   "keyword": "photo to print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "no crop": {
+   "difficulty": 15,
+   "keyword": "no crop",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "square fit": {
+   "difficulty": 15,
+   "keyword": "square fit",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "square photo": {
+   "difficulty": 23,
+   "keyword": "square photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "white border": {
+   "difficulty": 9,
+   "keyword": "white border",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo border": {
+   "difficulty": 40,
+   "keyword": "photo border",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "fit photo": {
+   "difficulty": 21,
+   "keyword": "fit photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "instagram no crop": {
+   "difficulty": 19,
+   "keyword": "instagram no crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur border": {
+   "difficulty": 19,
+   "keyword": "blur border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "combine photos": {
+   "difficulty": 47,
+   "keyword": "combine photos",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "merge photos": {
+   "difficulty": 37,
+   "keyword": "merge photos",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "stitch photos": {
+   "difficulty": 36,
+   "keyword": "stitch photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "long screenshot": {
+   "difficulty": 9,
+   "keyword": "long screenshot",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot stitch": {
+   "difficulty": 11,
+   "keyword": "screenshot stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo stitch": {
+   "difficulty": 47,
+   "keyword": "photo stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "join photos": {
+   "difficulty": 38,
+   "keyword": "join photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot editor": {
+   "difficulty": 17,
+   "keyword": "screenshot editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch resize": {
+   "difficulty": 11,
+   "keyword": "batch resize",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "bulk resize": {
+   "difficulty": 5,
+   "keyword": "bulk resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch compress": {
+   "difficulty": 15,
+   "keyword": "batch compress",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bulk photo resizer": {
+   "difficulty": 11,
+   "keyword": "bulk photo resizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch convert": {
+   "difficulty": 7,
+   "keyword": "batch convert",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize multiple photos": {
+   "difficulty": 11,
+   "keyword": "resize multiple photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif maker": {
+   "difficulty": 46,
+   "keyword": "gif maker",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "video to gif": {
+   "difficulty": 40,
+   "keyword": "video to gif",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to gif": {
+   "difficulty": 13,
+   "keyword": "live photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to video": {
+   "difficulty": 11,
+   "keyword": "live photo to video",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to gif": {
+   "difficulty": 21,
+   "keyword": "photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif converter": {
+   "difficulty": 39,
+   "keyword": "gif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif to video": {
+   "difficulty": 19,
+   "keyword": "gif to video",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo to 20kb": {
+   "difficulty": 11,
+   "keyword": "resize photo to 20kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size kb": {
+   "difficulty": 23,
+   "keyword": "photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo to 100kb": {
+   "difficulty": 11,
+   "keyword": "compress photo to 100kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size kb": {
+   "difficulty": 17,
+   "keyword": "reduce photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo kb reducer": {
+   "difficulty": 15,
+   "keyword": "photo kb reducer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size converter": {
+   "difficulty": 19,
+   "keyword": "photo size converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to text": {
+   "difficulty": 9,
+   "keyword": "image to text",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo to text": {
+   "difficulty": 19,
+   "keyword": "photo to text",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "ocr scanner": {
+   "difficulty": 49,
+   "keyword": "ocr scanner",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "extract text from image": {
+   "difficulty": 9,
+   "keyword": "extract text from image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "text scanner": {
+   "difficulty": 39,
+   "keyword": "text scanner",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "copy text from photo": {
+   "difficulty": 19,
+   "keyword": "copy text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp camera": {
+   "difficulty": 23,
+   "keyword": "timestamp camera",
+   "popularity": 61,
+   "skipped": false,
+   "success": true
+  },
+  "date stamp photo": {
+   "difficulty": 17,
+   "keyword": "date stamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add date to photo": {
+   "difficulty": 67,
+   "keyword": "add date to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp photo": {
+   "difficulty": 37,
+   "keyword": "timestamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo date stamp": {
+   "difficulty": 17,
+   "keyword": "photo date stamp",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to png": {
+   "difficulty": 15,
+   "keyword": "webp to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "tiff to jpg": {
+   "difficulty": 11,
+   "keyword": "tiff to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "raw to jpg": {
+   "difficulty": 19,
+   "keyword": "raw to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dng to jpg": {
+   "difficulty": 15,
+   "keyword": "dng to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bmp to jpg": {
+   "difficulty": 13,
+   "keyword": "bmp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "avif converter": {
+   "difficulty": 7,
+   "keyword": "avif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jfif to jpg": {
+   "difficulty": 21,
+   "keyword": "jfif to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png converter": {
+   "difficulty": 19,
+   "keyword": "png converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "jpg converter": {
+   "difficulty": 11,
+   "keyword": "jpg converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photos": {
+   "difficulty": 38,
+   "keyword": "duplicate photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "free up space": {
+   "difficulty": 23,
+   "keyword": "free up space",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "clean photos": {
+   "difficulty": 41,
+   "keyword": "clean photos",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photo remover": {
+   "difficulty": 15,
+   "keyword": "duplicate photo remover",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo storage cleaner": {
+   "difficulty": 17,
+   "keyword": "photo storage cleaner",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "similar photos": {
+   "difficulty": 15,
+   "keyword": "similar photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "gb": {
+  "photo to pdf": {
+   "difficulty": 42,
+   "keyword": "photo to pdf",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "image to pdf": {
+   "difficulty": 23,
+   "keyword": "image to pdf",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to pdf": {
+   "difficulty": 15,
+   "keyword": "jpg to pdf",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to jpg": {
+   "difficulty": 17,
+   "keyword": "pdf to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture to pdf": {
+   "difficulty": 44,
+   "keyword": "picture to pdf",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to pdf": {
+   "difficulty": 19,
+   "keyword": "convert photo to pdf",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photos to pdf": {
+   "difficulty": 23,
+   "keyword": "photos to pdf",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "pdf to image": {
+   "difficulty": 17,
+   "keyword": "pdf to image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop photo": {
+   "difficulty": 47,
+   "keyword": "crop photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo crop": {
+   "difficulty": 46,
+   "keyword": "photo crop",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "crop image": {
+   "difficulty": 23,
+   "keyword": "crop image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "circle crop": {
+   "difficulty": 7,
+   "keyword": "circle crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop picture": {
+   "difficulty": 19,
+   "keyword": "crop picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cropper": {
+   "difficulty": 21,
+   "keyword": "photo cropper",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "cut photo": {
+   "difficulty": 44,
+   "keyword": "cut photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate photo": {
+   "difficulty": 13,
+   "keyword": "rotate photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip photo": {
+   "difficulty": 15,
+   "keyword": "flip photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror photo": {
+   "difficulty": 15,
+   "keyword": "mirror photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror image": {
+   "difficulty": 17,
+   "keyword": "mirror image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "flip image": {
+   "difficulty": 11,
+   "keyword": "flip image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "rotate image": {
+   "difficulty": 7,
+   "keyword": "rotate image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "mirror picture": {
+   "difficulty": 19,
+   "keyword": "mirror picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add watermark": {
+   "difficulty": 19,
+   "keyword": "add watermark",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "watermark photo": {
+   "difficulty": 41,
+   "keyword": "watermark photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "watermark maker": {
+   "difficulty": 43,
+   "keyword": "watermark maker",
+   "popularity": 26,
+   "skipped": false,
+   "success": true
+  },
+  "watermark app": {
+   "difficulty": 40,
+   "keyword": "watermark app",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo watermark": {
+   "difficulty": 15,
+   "keyword": "photo watermark",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add logo to photo": {
+   "difficulty": 39,
+   "keyword": "add logo to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "copyright photo": {
+   "difficulty": 9,
+   "keyword": "copyright photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif": {
+   "difficulty": 17,
+   "keyword": "exif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif viewer": {
+   "difficulty": 11,
+   "keyword": "exif viewer",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo metadata": {
+   "difficulty": 11,
+   "keyword": "photo metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "remove metadata": {
+   "difficulty": 9,
+   "keyword": "remove metadata",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "exif editor": {
+   "difficulty": 9,
+   "keyword": "exif editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo location": {
+   "difficulty": 19,
+   "keyword": "photo location",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "metadata remover": {
+   "difficulty": 7,
+   "keyword": "metadata remover",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo info": {
+   "difficulty": 36,
+   "keyword": "photo info",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur photo": {
+   "difficulty": 50,
+   "keyword": "blur photo",
+   "popularity": 58,
+   "skipped": false,
+   "success": true
+  },
+  "blur face": {
+   "difficulty": 35,
+   "keyword": "blur face",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "pixelate": {
+   "difficulty": 21,
+   "keyword": "pixelate",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "censor photo": {
+   "difficulty": 13,
+   "keyword": "censor photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur part of photo": {
+   "difficulty": 40,
+   "keyword": "blur part of photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "hide face": {
+   "difficulty": 23,
+   "keyword": "hide face",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur image": {
+   "difficulty": 38,
+   "keyword": "blur image",
+   "popularity": 10,
+   "skipped": false,
+   "success": true
+  },
+  "print size": {
+   "difficulty": 15,
+   "keyword": "print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo print size": {
+   "difficulty": 44,
+   "keyword": "photo print size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi": {
+   "difficulty": 7,
+   "keyword": "dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change dpi": {
+   "difficulty": 11,
+   "keyword": "change dpi",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "4x6 photo": {
+   "difficulty": 53,
+   "keyword": "4x6 photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for print": {
+   "difficulty": 9,
+   "keyword": "resize for print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dpi changer": {
+   "difficulty": 11,
+   "keyword": "dpi changer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to print": {
+   "difficulty": 45,
+   "keyword": "photo to print",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "no crop": {
+   "difficulty": 21,
+   "keyword": "no crop",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "square fit": {
+   "difficulty": 19,
+   "keyword": "square fit",
+   "popularity": 41,
+   "skipped": false,
+   "success": true
+  },
+  "square photo": {
+   "difficulty": 41,
+   "keyword": "square photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "white border": {
+   "difficulty": 15,
+   "keyword": "white border",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo border": {
+   "difficulty": 19,
+   "keyword": "photo border",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "fit photo": {
+   "difficulty": 13,
+   "keyword": "fit photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "instagram no crop": {
+   "difficulty": 23,
+   "keyword": "instagram no crop",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "blur border": {
+   "difficulty": 39,
+   "keyword": "blur border",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "combine photos": {
+   "difficulty": 46,
+   "keyword": "combine photos",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "merge photos": {
+   "difficulty": 23,
+   "keyword": "merge photos",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "stitch photos": {
+   "difficulty": 15,
+   "keyword": "stitch photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "long screenshot": {
+   "difficulty": 11,
+   "keyword": "long screenshot",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot stitch": {
+   "difficulty": 13,
+   "keyword": "screenshot stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo stitch": {
+   "difficulty": 19,
+   "keyword": "photo stitch",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "join photos": {
+   "difficulty": 44,
+   "keyword": "join photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "screenshot editor": {
+   "difficulty": 5,
+   "keyword": "screenshot editor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch resize": {
+   "difficulty": 9,
+   "keyword": "batch resize",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "bulk resize": {
+   "difficulty": 17,
+   "keyword": "bulk resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch compress": {
+   "difficulty": 7,
+   "keyword": "batch compress",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bulk photo resizer": {
+   "difficulty": 13,
+   "keyword": "bulk photo resizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "batch convert": {
+   "difficulty": 7,
+   "keyword": "batch convert",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize multiple photos": {
+   "difficulty": 15,
+   "keyword": "resize multiple photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif maker": {
+   "difficulty": 48,
+   "keyword": "gif maker",
+   "popularity": 50,
+   "skipped": false,
+   "success": true
+  },
+  "video to gif": {
+   "difficulty": 39,
+   "keyword": "video to gif",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to gif": {
+   "difficulty": 11,
+   "keyword": "live photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "live photo to video": {
+   "difficulty": 21,
+   "keyword": "live photo to video",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo to gif": {
+   "difficulty": 38,
+   "keyword": "photo to gif",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif converter": {
+   "difficulty": 41,
+   "keyword": "gif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "gif to video": {
+   "difficulty": 15,
+   "keyword": "gif to video",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo to 20kb": {
+   "difficulty": 13,
+   "keyword": "resize photo to 20kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size kb": {
+   "difficulty": 17,
+   "keyword": "photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo to 100kb": {
+   "difficulty": 13,
+   "keyword": "compress photo to 100kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size kb": {
+   "difficulty": 17,
+   "keyword": "reduce photo size kb",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo kb reducer": {
+   "difficulty": 17,
+   "keyword": "photo kb reducer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size converter": {
+   "difficulty": 21,
+   "keyword": "photo size converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to text": {
+   "difficulty": 11,
+   "keyword": "image to text",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo to text": {
+   "difficulty": 37,
+   "keyword": "photo to text",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "ocr scanner": {
+   "difficulty": 44,
+   "keyword": "ocr scanner",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "extract text from image": {
+   "difficulty": 11,
+   "keyword": "extract text from image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "text scanner": {
+   "difficulty": 21,
+   "keyword": "text scanner",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "copy text from photo": {
+   "difficulty": 13,
+   "keyword": "copy text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp camera": {
+   "difficulty": 39,
+   "keyword": "timestamp camera",
+   "popularity": 56,
+   "skipped": false,
+   "success": true
+  },
+  "date stamp photo": {
+   "difficulty": 13,
+   "keyword": "date stamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "add date to photo": {
+   "difficulty": 21,
+   "keyword": "add date to photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "timestamp photo": {
+   "difficulty": 23,
+   "keyword": "timestamp photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo date stamp": {
+   "difficulty": 19,
+   "keyword": "photo date stamp",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to png": {
+   "difficulty": 5,
+   "keyword": "webp to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "tiff to jpg": {
+   "difficulty": 11,
+   "keyword": "tiff to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "raw to jpg": {
+   "difficulty": 13,
+   "keyword": "raw to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "dng to jpg": {
+   "difficulty": 11,
+   "keyword": "dng to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "bmp to jpg": {
+   "difficulty": 13,
+   "keyword": "bmp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "avif converter": {
+   "difficulty": 5,
+   "keyword": "avif converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jfif to jpg": {
+   "difficulty": 9,
+   "keyword": "jfif to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png converter": {
+   "difficulty": 13,
+   "keyword": "png converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "jpg converter": {
+   "difficulty": 9,
+   "keyword": "jpg converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photos": {
+   "difficulty": 17,
+   "keyword": "duplicate photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "free up space": {
+   "difficulty": 38,
+   "keyword": "free up space",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "clean photos": {
+   "difficulty": 42,
+   "keyword": "clean photos",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "duplicate photo remover": {
+   "difficulty": 15,
+   "keyword": "duplicate photo remover",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo storage cleaner": {
+   "difficulty": 37,
+   "keyword": "photo storage cleaner",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "similar photos": {
+   "difficulty": 19,
+   "keyword": "similar photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  }
+ }
+}

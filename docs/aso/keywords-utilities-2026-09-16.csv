@@ -1,0 +1,114 @@
+cluster,keyword,us_pop,us_diff,ca_pop,ca_diff,au_pop,au_diff,gb_pop,gb_diff
+U1 Photo to PDF,photo to pdf,62,69,58,39,32,43,36,42
+U1 Photo to PDF,image to pdf,54,52,8,19,8,17,8,23
+U1 Photo to PDF,jpg to pdf,57,40,31,38,7,23,7,15
+U1 Photo to PDF,pdf to jpg,5,17,5,21,5,39,5,17
+U1 Photo to PDF,picture to pdf,9,48,9,23,11,48,8,44
+U1 Photo to PDF,convert photo to pdf,36,21,5,17,5,21,5,19
+U1 Photo to PDF,photos to pdf,58,45,37,21,51,17,6,23
+U1 Photo to PDF,pdf to image,5,7,5,37,5,17,5,17
+U2 Crop,crop photo,9,81,6,46,9,43,9,47
+U2 Crop,photo crop,6,67,8,40,6,41,6,46
+U2 Crop,crop image,5,42,5,23,5,39,5,23
+U2 Crop,circle crop,5,15,5,7,5,7,5,7
+U2 Crop,crop picture,5,57,5,46,5,49,5,19
+U2 Crop,photo cropper,13,46,5,53,13,41,13,21
+U2 Crop,cut photo,5,53,5,43,5,45,5,44
+U3 Rotate / Flip / Mirror,rotate photo,5,17,5,9,5,13,5,13
+U3 Rotate / Flip / Mirror,flip photo,5,21,5,9,5,11,5,15
+U3 Rotate / Flip / Mirror,mirror photo,5,23,5,15,5,17,5,15
+U3 Rotate / Flip / Mirror,mirror image,5,41,5,15,5,19,5,17
+U3 Rotate / Flip / Mirror,flip image,5,19,5,17,5,42,5,11
+U3 Rotate / Flip / Mirror,rotate image,5,17,5,7,5,21,5,7
+U3 Rotate / Flip / Mirror,mirror picture,5,37,5,19,5,17,5,19
+U4 Watermark,add watermark,9,39,5,15,6,15,8,19
+U4 Watermark,watermark photo,17,42,17,17,5,13,5,41
+U4 Watermark,watermark maker,26,62,5,23,26,19,26,43
+U4 Watermark,watermark app,5,48,5,19,5,17,5,40
+U4 Watermark,photo watermark,15,45,5,17,5,13,5,15
+U4 Watermark,add logo to photo,5,15,5,38,5,44,5,39
+U4 Watermark,copyright photo,5,13,5,13,5,11,5,9
+U5 Metadata / EXIF,exif,24,35,6,9,5,11,5,17
+U5 Metadata / EXIF,exif viewer,6,19,6,9,6,9,8,11
+U5 Metadata / EXIF,photo metadata,5,21,5,11,5,11,5,11
+U5 Metadata / EXIF,remove metadata,5,15,5,9,5,9,5,9
+U5 Metadata / EXIF,exif editor,5,23,5,7,5,11,5,9
+U5 Metadata / EXIF,photo location,5,23,5,17,5,13,5,19
+U5 Metadata / EXIF,metadata remover,8,15,20,7,8,9,8,7
+U5 Metadata / EXIF,photo info,5,21,5,33,5,33,5,36
+U6 Blur / Censor,blur photo,55,65,32,21,8,21,58,50
+U6 Blur / Censor,blur face,7,45,7,19,7,19,7,35
+U6 Blur / Censor,pixelate,8,21,9,15,8,15,8,21
+U6 Blur / Censor,censor photo,5,43,5,13,5,13,5,13
+U6 Blur / Censor,blur part of photo,5,50,5,23,5,23,5,40
+U6 Blur / Censor,hide face,5,21,5,7,5,7,5,23
+U6 Blur / Censor,blur image,6,42,5,19,6,13,10,38
+U7 Print / DPI,print size,5,41,5,15,5,19,5,15
+U7 Print / DPI,photo print size,5,56,5,21,5,38,5,44
+U7 Print / DPI,dpi,24,13,24,9,5,7,5,7
+U7 Print / DPI,change dpi,5,31,5,9,5,15,5,11
+U7 Print / DPI,4x6 photo,5,50,5,46,5,42,5,53
+U7 Print / DPI,resize for print,5,42,5,21,5,17,5,9
+U7 Print / DPI,dpi changer,5,44,5,9,5,11,5,11
+U7 Print / DPI,photo to print,5,62,5,42,5,43,5,45
+U8 No-crop / Square / Border,no crop,7,57,9,39,7,15,7,21
+U8 No-crop / Square / Border,square fit,40,43,37,39,36,15,41,19
+U8 No-crop / Square / Border,square photo,9,41,6,39,9,23,9,41
+U8 No-crop / Square / Border,white border,8,33,5,15,8,9,8,15
+U8 No-crop / Square / Border,photo border,7,40,5,17,7,40,7,19
+U8 No-crop / Square / Border,fit photo,5,57,5,17,5,21,5,13
+U8 No-crop / Square / Border,instagram no crop,5,50,5,21,5,19,5,23
+U8 No-crop / Square / Border,blur border,5,19,5,43,5,19,5,39
+U9 Combine / Stitch,combine photos,8,56,5,46,8,47,8,46
+U9 Combine / Stitch,merge photos,8,48,5,40,9,37,9,23
+U9 Combine / Stitch,stitch photos,17,49,5,46,5,36,5,15
+U9 Combine / Stitch,long screenshot,6,36,5,9,5,9,5,11
+U9 Combine / Stitch,screenshot stitch,5,23,5,11,5,11,5,13
+U9 Combine / Stitch,photo stitch,21,52,5,23,5,47,5,19
+U9 Combine / Stitch,join photos,5,52,5,38,5,38,5,44
+U9 Combine / Stitch,screenshot editor,16,7,5,5,5,17,5,5
+U10 Batch,batch resize,14,17,8,15,14,11,14,9
+U10 Batch,bulk resize,5,13,5,21,5,5,5,17
+U10 Batch,batch compress,5,9,5,11,5,15,5,7
+U10 Batch,bulk photo resizer,5,15,5,9,5,11,5,13
+U10 Batch,batch convert,5,5,5,7,5,7,5,7
+U10 Batch,resize multiple photos,5,23,5,9,5,11,5,15
+U11 GIF / Live Photo,gif maker,57,65,48,46,36,46,50,48
+U11 GIF / Live Photo,video to gif,6,52,5,37,6,40,6,39
+U11 GIF / Live Photo,live photo to gif,5,40,5,13,5,13,5,11
+U11 GIF / Live Photo,live photo to video,20,23,5,13,5,11,5,21
+U11 GIF / Live Photo,photo to gif,5,51,5,36,5,21,5,38
+U11 GIF / Live Photo,gif converter,17,50,5,23,5,39,5,41
+U11 GIF / Live Photo,gif to video,6,40,5,37,6,19,6,15
+U12 Size in KB,resize photo to 20kb,5,19,5,9,5,11,5,13
+U12 Size in KB,photo size kb,5,11,5,40,5,23,5,17
+U12 Size in KB,compress photo to 100kb,5,15,5,13,5,11,5,13
+U12 Size in KB,reduce photo size kb,5,19,5,15,5,17,5,17
+U12 Size in KB,photo kb reducer,5,17,5,11,5,15,5,17
+U12 Size in KB,photo size converter,5,23,5,19,5,19,5,21
+U13 OCR / Text,image to text,6,17,6,11,9,9,9,11
+U13 OCR / Text,photo to text,7,36,5,21,7,19,7,37
+U13 OCR / Text,ocr scanner,16,41,9,49,6,49,6,44
+U13 OCR / Text,extract text from image,5,13,5,11,5,9,5,11
+U13 OCR / Text,text scanner,7,53,9,15,7,39,7,21
+U13 OCR / Text,copy text from photo,5,17,5,15,5,19,5,13
+U14 Date stamp,timestamp camera,61,52,57,19,61,23,56,39
+U14 Date stamp,date stamp photo,5,19,5,11,5,17,5,13
+U14 Date stamp,add date to photo,5,7,5,67,5,67,5,21
+U14 Date stamp,timestamp photo,5,41,5,23,5,37,5,23
+U14 Date stamp,photo date stamp,5,15,5,15,5,17,5,19
+U15 Format specifics,webp to png,5,5,5,15,5,15,5,5
+U15 Format specifics,tiff to jpg,5,13,5,9,5,11,5,11
+U15 Format specifics,raw to jpg,5,44,5,21,5,19,5,13
+U15 Format specifics,dng to jpg,5,44,5,13,5,15,5,11
+U15 Format specifics,bmp to jpg,5,17,5,13,5,13,5,13
+U15 Format specifics,avif converter,5,5,5,7,5,7,5,5
+U15 Format specifics,jfif to jpg,5,21,5,17,5,21,5,9
+U15 Format specifics,png converter,7,48,6,23,6,19,9,13
+U15 Format specifics,jpg converter,9,21,25,19,9,11,9,9
+U16 Photo cleaner / storage,duplicate photos,5,39,5,17,5,38,5,17
+U16 Photo cleaner / storage,free up space,15,43,5,41,5,23,5,38
+U16 Photo cleaner / storage,clean photos,9,55,5,23,6,41,6,42
+U16 Photo cleaner / storage,duplicate photo remover,5,19,5,11,5,15,5,15
+U16 Photo cleaner / storage,photo storage cleaner,8,40,5,37,8,17,8,37
+U16 Photo cleaner / storage,similar photos,5,39,5,15,5,15,5,19

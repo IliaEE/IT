@@ -1,0 +1,3118 @@
+{
+ "us": {
+  "remove background": {
+   "keyword": "remove background",
+   "popularity": 55,
+   "difficulty": 82,
+   "success": true,
+   "skipped": false
+  },
+  "background remover": {
+   "difficulty": 79,
+   "keyword": "background remover",
+   "popularity": 59,
+   "skipped": false,
+   "success": true
+  },
+  "background eraser": {
+   "difficulty": 73,
+   "keyword": "background eraser",
+   "popularity": 53,
+   "skipped": false,
+   "success": true
+  },
+  "remove bg": {
+   "difficulty": 57,
+   "keyword": "remove bg",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo background remover": {
+   "difficulty": 74,
+   "keyword": "photo background remover",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "transparent background": {
+   "difficulty": 53,
+   "keyword": "transparent background",
+   "popularity": 25,
+   "skipped": false,
+   "success": true
+  },
+  "cut out photo": {
+   "difficulty": 58,
+   "keyword": "cut out photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cutout": {
+   "difficulty": 55,
+   "keyword": "cutout",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "png maker": {
+   "difficulty": 52,
+   "keyword": "png maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "white background": {
+   "difficulty": 47,
+   "keyword": "white background",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "change background": {
+   "difficulty": 65,
+   "keyword": "change background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "remove background from photo": {
+   "difficulty": 58,
+   "keyword": "remove background from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer": {
+   "difficulty": 71,
+   "keyword": "photo enhancer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo enhancer": {
+   "difficulty": 74,
+   "keyword": "ai photo enhancer",
+   "popularity": 52,
+   "skipped": false,
+   "success": true
+  },
+  "image upscaler": {
+   "difficulty": 41,
+   "keyword": "image upscaler",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "upscale image": {
+   "difficulty": 50,
+   "keyword": "upscale image",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "enhance photo quality": {
+   "difficulty": 65,
+   "keyword": "enhance photo quality",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "hd photo": {
+   "difficulty": 59,
+   "keyword": "hd photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo quality enhancer": {
+   "difficulty": 55,
+   "keyword": "photo quality enhancer",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "increase resolution": {
+   "difficulty": 46,
+   "keyword": "increase resolution",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "unblur photo": {
+   "difficulty": 56,
+   "keyword": "unblur photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "sharpen photo": {
+   "difficulty": 46,
+   "keyword": "sharpen photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix blurry photo": {
+   "difficulty": 45,
+   "keyword": "fix blurry photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "clear photo": {
+   "difficulty": 47,
+   "keyword": "clear photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer ai": {
+   "difficulty": 48,
+   "keyword": "photo enhancer ai",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpg": {
+   "keyword": "heic to jpg",
+   "popularity": 8,
+   "difficulty": 13,
+   "success": true,
+   "skipped": false
+  },
+  "heic converter": {
+   "difficulty": 17,
+   "keyword": "heic converter",
+   "popularity": 22,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpeg": {
+   "difficulty": 23,
+   "keyword": "heic to jpeg",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "image converter": {
+   "difficulty": 42,
+   "keyword": "image converter",
+   "popularity": 50,
+   "skipped": false,
+   "success": true
+  },
+  "photo converter": {
+   "difficulty": 23,
+   "keyword": "photo converter",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to jpg": {
+   "difficulty": 45,
+   "keyword": "convert photo to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to jpg": {
+   "difficulty": 23,
+   "keyword": "png to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to png": {
+   "difficulty": 19,
+   "keyword": "jpg to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp converter": {
+   "difficulty": 15,
+   "keyword": "webp converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to jpg": {
+   "difficulty": 7,
+   "keyword": "webp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo format converter": {
+   "difficulty": 21,
+   "keyword": "photo format converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert image format": {
+   "difficulty": 21,
+   "keyword": "convert image format",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpeg converter": {
+   "difficulty": 23,
+   "keyword": "jpeg converter",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo compressor": {
+   "difficulty": 19,
+   "keyword": "photo compressor",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo": {
+   "difficulty": 19,
+   "keyword": "compress photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image compressor": {
+   "difficulty": 19,
+   "keyword": "image compressor",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size": {
+   "difficulty": 21,
+   "keyword": "reduce photo size",
+   "popularity": 19,
+   "skipped": false,
+   "success": true
+  },
+  "reduce image size": {
+   "difficulty": 21,
+   "keyword": "reduce image size",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "shrink photo": {
+   "difficulty": 48,
+   "keyword": "shrink photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size reducer": {
+   "difficulty": 23,
+   "keyword": "photo size reducer",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "compress image": {
+   "difficulty": 19,
+   "keyword": "compress image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress jpeg": {
+   "difficulty": 37,
+   "keyword": "compress jpeg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "make photo smaller": {
+   "difficulty": 46,
+   "keyword": "make photo smaller",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress pictures": {
+   "difficulty": 21,
+   "keyword": "compress pictures",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo": {
+   "difficulty": 48,
+   "keyword": "resize photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "image resizer": {
+   "difficulty": 48,
+   "keyword": "image resizer",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo resizer": {
+   "difficulty": 59,
+   "keyword": "photo resizer",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize image": {
+   "difficulty": 50,
+   "keyword": "resize image",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize picture": {
+   "difficulty": 48,
+   "keyword": "resize picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change photo size": {
+   "difficulty": 43,
+   "keyword": "change photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo dimensions": {
+   "difficulty": 15,
+   "keyword": "photo dimensions",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop and resize": {
+   "difficulty": 9,
+   "keyword": "crop and resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for instagram": {
+   "difficulty": 55,
+   "keyword": "resize for instagram",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size": {
+   "difficulty": 45,
+   "keyword": "photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to svg": {
+   "difficulty": 36,
+   "keyword": "image to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to svg": {
+   "difficulty": 39,
+   "keyword": "png to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to svg": {
+   "difficulty": 19,
+   "keyword": "jpg to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorize image": {
+   "difficulty": 19,
+   "keyword": "vectorize image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vector converter": {
+   "difficulty": 46,
+   "keyword": "vector converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg converter": {
+   "difficulty": 37,
+   "keyword": "svg converter",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "image to vector": {
+   "difficulty": 23,
+   "keyword": "image to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert to svg": {
+   "difficulty": 23,
+   "keyword": "convert to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg maker": {
+   "difficulty": 46,
+   "keyword": "svg maker",
+   "popularity": 16,
+   "skipped": false,
+   "success": true
+  },
+  "logo to vector": {
+   "difficulty": 7,
+   "keyword": "logo to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorizer": {
+   "difficulty": 39,
+   "keyword": "vectorizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object remover": {
+   "difficulty": 57,
+   "keyword": "object remover",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "remove objects from photo": {
+   "difficulty": 74,
+   "keyword": "remove objects from photo",
+   "popularity": 54,
+   "skipped": false,
+   "success": true
+  },
+  "magic eraser": {
+   "difficulty": 53,
+   "keyword": "magic eraser",
+   "popularity": 56,
+   "skipped": false,
+   "success": true
+  },
+  "remove people from photo": {
+   "difficulty": 48,
+   "keyword": "remove people from photo",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "remove unwanted objects": {
+   "difficulty": 23,
+   "keyword": "remove unwanted objects",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleanup": {
+   "difficulty": 46,
+   "keyword": "photo cleanup",
+   "popularity": 32,
+   "skipped": false,
+   "success": true
+  },
+  "erase objects": {
+   "difficulty": 73,
+   "keyword": "erase objects",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "remove text from photo": {
+   "difficulty": 23,
+   "keyword": "remove text from photo",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "object eraser": {
+   "difficulty": 55,
+   "keyword": "object eraser",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo restoration": {
+   "difficulty": 48,
+   "keyword": "photo restoration",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "restore old photos": {
+   "difficulty": 17,
+   "keyword": "restore old photos",
+   "popularity": 12,
+   "skipped": false,
+   "success": true
+  },
+  "old photo restoration": {
+   "difficulty": 17,
+   "keyword": "old photo restoration",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "repair old photos": {
+   "difficulty": 17,
+   "keyword": "repair old photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize photo": {
+   "difficulty": 37,
+   "keyword": "colorize photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize black and white": {
+   "difficulty": 13,
+   "keyword": "colorize black and white",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "face restoration": {
+   "difficulty": 17,
+   "keyword": "face restoration",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix old photos": {
+   "difficulty": 23,
+   "keyword": "fix old photos",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo": {
+   "difficulty": 60,
+   "keyword": "passport photo",
+   "popularity": 61,
+   "skipped": false,
+   "success": true
+  },
+  "id photo": {
+   "difficulty": 52,
+   "keyword": "id photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo maker": {
+   "difficulty": 55,
+   "keyword": "passport photo maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo app": {
+   "difficulty": 51,
+   "keyword": "passport photo app",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "visa photo": {
+   "difficulty": 45,
+   "keyword": "visa photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "id photo maker": {
+   "difficulty": 41,
+   "keyword": "id photo maker",
+   "popularity": 25,
+   "skipped": false,
+   "success": true
+  },
+  "passport size photo": {
+   "difficulty": 48,
+   "keyword": "passport size photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo for documents": {
+   "difficulty": 39,
+   "keyword": "photo for documents",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo editor": {
+   "difficulty": 89,
+   "keyword": "photo editor",
+   "popularity": 73,
+   "skipped": false,
+   "success": true
+  },
+  "photo tools": {
+   "difficulty": 57,
+   "keyword": "photo tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image tools": {
+   "difficulty": 5,
+   "keyword": "image tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo editor": {
+   "difficulty": 86,
+   "keyword": "ai photo editor",
+   "popularity": 65,
+   "skipped": false,
+   "success": true
+  },
+  "picture editor": {
+   "difficulty": 90,
+   "keyword": "picture editor",
+   "popularity": 59,
+   "skipped": false,
+   "success": true
+  },
+  "photo utilities": {
+   "difficulty": 71,
+   "keyword": "photo utilities",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image size": {
+   "difficulty": 49,
+   "keyword": "image size",
+   "popularity": 45,
+   "skipped": false,
+   "success": true
+  },
+  "heic": {
+   "difficulty": 17,
+   "keyword": "heic",
+   "popularity": 16,
+   "skipped": false,
+   "success": true
+  },
+  "picture converter": {
+   "difficulty": 39,
+   "keyword": "picture converter",
+   "popularity": 21,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleaner": {
+   "difficulty": 62,
+   "keyword": "photo cleaner",
+   "popularity": 49,
+   "skipped": false,
+   "success": true
+  },
+  "clean up photo": {
+   "difficulty": 42,
+   "keyword": "clean up photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai eraser": {
+   "difficulty": 50,
+   "keyword": "ai eraser",
+   "popularity": 20,
+   "skipped": false,
+   "success": true
+  },
+  "photo eraser": {
+   "difficulty": 77,
+   "keyword": "photo eraser",
+   "popularity": 53,
+   "skipped": false,
+   "success": true
+  },
+  "background changer": {
+   "difficulty": 51,
+   "keyword": "background changer",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "blur background": {
+   "difficulty": 58,
+   "keyword": "blur background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo restore": {
+   "difficulty": 50,
+   "keyword": "photo restore",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "ca": {
+  "remove background": {
+   "difficulty": 50,
+   "keyword": "remove background",
+   "popularity": 30,
+   "skipped": false,
+   "success": true
+  },
+  "background remover": {
+   "difficulty": 57,
+   "keyword": "background remover",
+   "popularity": 52,
+   "skipped": false,
+   "success": true
+  },
+  "background eraser": {
+   "difficulty": 23,
+   "keyword": "background eraser",
+   "popularity": 36,
+   "skipped": false,
+   "success": true
+  },
+  "remove bg": {
+   "difficulty": 19,
+   "keyword": "remove bg",
+   "popularity": 32,
+   "skipped": false,
+   "success": true
+  },
+  "photo background remover": {
+   "difficulty": 51,
+   "keyword": "photo background remover",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "transparent background": {
+   "difficulty": 44,
+   "keyword": "transparent background",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cut out photo": {
+   "difficulty": 40,
+   "keyword": "cut out photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cutout": {
+   "difficulty": 40,
+   "keyword": "cutout",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "png maker": {
+   "difficulty": 36,
+   "keyword": "png maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "white background": {
+   "difficulty": 44,
+   "keyword": "white background",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "change background": {
+   "difficulty": 53,
+   "keyword": "change background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "remove background from photo": {
+   "difficulty": 37,
+   "keyword": "remove background from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer": {
+   "difficulty": 47,
+   "keyword": "photo enhancer",
+   "popularity": 41,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo enhancer": {
+   "difficulty": 51,
+   "keyword": "ai photo enhancer",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "image upscaler": {
+   "difficulty": 46,
+   "keyword": "image upscaler",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "upscale image": {
+   "difficulty": 13,
+   "keyword": "upscale image",
+   "popularity": 21,
+   "skipped": false,
+   "success": true
+  },
+  "enhance photo quality": {
+   "difficulty": 43,
+   "keyword": "enhance photo quality",
+   "popularity": 27,
+   "skipped": false,
+   "success": true
+  },
+  "hd photo": {
+   "difficulty": 52,
+   "keyword": "hd photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo quality enhancer": {
+   "difficulty": 23,
+   "keyword": "photo quality enhancer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "increase resolution": {
+   "difficulty": 38,
+   "keyword": "increase resolution",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "unblur photo": {
+   "difficulty": 23,
+   "keyword": "unblur photo",
+   "popularity": 28,
+   "skipped": false,
+   "success": true
+  },
+  "sharpen photo": {
+   "difficulty": 17,
+   "keyword": "sharpen photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix blurry photo": {
+   "difficulty": 37,
+   "keyword": "fix blurry photo",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "clear photo": {
+   "difficulty": 43,
+   "keyword": "clear photo",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer ai": {
+   "difficulty": 23,
+   "keyword": "photo enhancer ai",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpg": {
+   "difficulty": 5,
+   "keyword": "heic to jpg",
+   "popularity": 19,
+   "skipped": false,
+   "success": true
+  },
+  "heic converter": {
+   "difficulty": 11,
+   "keyword": "heic converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpeg": {
+   "difficulty": 15,
+   "keyword": "heic to jpeg",
+   "popularity": 12,
+   "skipped": false,
+   "success": true
+  },
+  "image converter": {
+   "difficulty": 15,
+   "keyword": "image converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo converter": {
+   "difficulty": 19,
+   "keyword": "photo converter",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to jpg": {
+   "difficulty": 40,
+   "keyword": "convert photo to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to jpg": {
+   "difficulty": 13,
+   "keyword": "png to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to png": {
+   "difficulty": 11,
+   "keyword": "jpg to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp converter": {
+   "difficulty": 15,
+   "keyword": "webp converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to jpg": {
+   "difficulty": 5,
+   "keyword": "webp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo format converter": {
+   "difficulty": 21,
+   "keyword": "photo format converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert image format": {
+   "difficulty": 11,
+   "keyword": "convert image format",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpeg converter": {
+   "difficulty": 13,
+   "keyword": "jpeg converter",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo compressor": {
+   "difficulty": 11,
+   "keyword": "photo compressor",
+   "popularity": 25,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo": {
+   "difficulty": 11,
+   "keyword": "compress photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image compressor": {
+   "difficulty": 15,
+   "keyword": "image compressor",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size": {
+   "difficulty": 13,
+   "keyword": "reduce photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce image size": {
+   "difficulty": 21,
+   "keyword": "reduce image size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "shrink photo": {
+   "difficulty": 17,
+   "keyword": "shrink photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size reducer": {
+   "difficulty": 15,
+   "keyword": "photo size reducer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress image": {
+   "difficulty": 17,
+   "keyword": "compress image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress jpeg": {
+   "difficulty": 13,
+   "keyword": "compress jpeg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "make photo smaller": {
+   "difficulty": 23,
+   "keyword": "make photo smaller",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress pictures": {
+   "difficulty": 13,
+   "keyword": "compress pictures",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo": {
+   "difficulty": 21,
+   "keyword": "resize photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "image resizer": {
+   "difficulty": 17,
+   "keyword": "image resizer",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo resizer": {
+   "difficulty": 40,
+   "keyword": "photo resizer",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize image": {
+   "difficulty": 21,
+   "keyword": "resize image",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "resize picture": {
+   "difficulty": 9,
+   "keyword": "resize picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change photo size": {
+   "difficulty": 23,
+   "keyword": "change photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo dimensions": {
+   "difficulty": 15,
+   "keyword": "photo dimensions",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop and resize": {
+   "difficulty": 7,
+   "keyword": "crop and resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for instagram": {
+   "difficulty": 42,
+   "keyword": "resize for instagram",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size": {
+   "difficulty": 44,
+   "keyword": "photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to svg": {
+   "difficulty": 13,
+   "keyword": "image to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to svg": {
+   "difficulty": 9,
+   "keyword": "png to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to svg": {
+   "difficulty": 13,
+   "keyword": "jpg to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorize image": {
+   "difficulty": 13,
+   "keyword": "vectorize image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vector converter": {
+   "difficulty": 21,
+   "keyword": "vector converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg converter": {
+   "difficulty": 15,
+   "keyword": "svg converter",
+   "popularity": 22,
+   "skipped": false,
+   "success": true
+  },
+  "image to vector": {
+   "difficulty": 17,
+   "keyword": "image to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert to svg": {
+   "difficulty": 13,
+   "keyword": "convert to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg maker": {
+   "difficulty": 23,
+   "keyword": "svg maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "logo to vector": {
+   "difficulty": 15,
+   "keyword": "logo to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorizer": {
+   "difficulty": 17,
+   "keyword": "vectorizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object remover": {
+   "difficulty": 43,
+   "keyword": "object remover",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "remove objects from photo": {
+   "difficulty": 43,
+   "keyword": "remove objects from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "magic eraser": {
+   "difficulty": 23,
+   "keyword": "magic eraser",
+   "popularity": 49,
+   "skipped": false,
+   "success": true
+  },
+  "remove people from photo": {
+   "difficulty": 37,
+   "keyword": "remove people from photo",
+   "popularity": 28,
+   "skipped": false,
+   "success": true
+  },
+  "remove unwanted objects": {
+   "difficulty": 19,
+   "keyword": "remove unwanted objects",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleanup": {
+   "difficulty": 40,
+   "keyword": "photo cleanup",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "erase objects": {
+   "difficulty": 42,
+   "keyword": "erase objects",
+   "popularity": 37,
+   "skipped": false,
+   "success": true
+  },
+  "remove text from photo": {
+   "difficulty": 19,
+   "keyword": "remove text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object eraser": {
+   "difficulty": 43,
+   "keyword": "object eraser",
+   "popularity": 23,
+   "skipped": false,
+   "success": true
+  },
+  "photo restoration": {
+   "difficulty": 39,
+   "keyword": "photo restoration",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "restore old photos": {
+   "difficulty": 23,
+   "keyword": "restore old photos",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "old photo restoration": {
+   "difficulty": 11,
+   "keyword": "old photo restoration",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "repair old photos": {
+   "difficulty": 11,
+   "keyword": "repair old photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize photo": {
+   "difficulty": 15,
+   "keyword": "colorize photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize black and white": {
+   "difficulty": 7,
+   "keyword": "colorize black and white",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "face restoration": {
+   "difficulty": 15,
+   "keyword": "face restoration",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix old photos": {
+   "difficulty": 11,
+   "keyword": "fix old photos",
+   "popularity": 11,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo": {
+   "difficulty": 44,
+   "keyword": "passport photo",
+   "popularity": 51,
+   "skipped": false,
+   "success": true
+  },
+  "id photo": {
+   "difficulty": 23,
+   "keyword": "id photo",
+   "popularity": 31,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo maker": {
+   "difficulty": 19,
+   "keyword": "passport photo maker",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo app": {
+   "difficulty": 40,
+   "keyword": "passport photo app",
+   "popularity": 48,
+   "skipped": false,
+   "success": true
+  },
+  "visa photo": {
+   "difficulty": 19,
+   "keyword": "visa photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "id photo maker": {
+   "difficulty": 15,
+   "keyword": "id photo maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "passport size photo": {
+   "difficulty": 37,
+   "keyword": "passport size photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo for documents": {
+   "difficulty": 53,
+   "keyword": "photo for documents",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo editor": {
+   "difficulty": 74,
+   "keyword": "photo editor",
+   "popularity": 70,
+   "skipped": false,
+   "success": true
+  },
+  "photo tools": {
+   "difficulty": 39,
+   "keyword": "photo tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image tools": {
+   "difficulty": 9,
+   "keyword": "image tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo editor": {
+   "difficulty": 70,
+   "keyword": "ai photo editor",
+   "popularity": 59,
+   "skipped": false,
+   "success": true
+  },
+  "picture editor": {
+   "difficulty": 73,
+   "keyword": "picture editor",
+   "popularity": 42,
+   "skipped": false,
+   "success": true
+  },
+  "photo utilities": {
+   "difficulty": 17,
+   "keyword": "photo utilities",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image size": {
+   "difficulty": 35,
+   "keyword": "image size",
+   "popularity": 46,
+   "skipped": false,
+   "success": true
+  },
+  "heic": {
+   "difficulty": 11,
+   "keyword": "heic",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture converter": {
+   "difficulty": 21,
+   "keyword": "picture converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleaner": {
+   "difficulty": 48,
+   "keyword": "photo cleaner",
+   "popularity": 41,
+   "skipped": false,
+   "success": true
+  },
+  "clean up photo": {
+   "difficulty": 43,
+   "keyword": "clean up photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai eraser": {
+   "difficulty": 45,
+   "keyword": "ai eraser",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo eraser": {
+   "difficulty": 52,
+   "keyword": "photo eraser",
+   "popularity": 48,
+   "skipped": false,
+   "success": true
+  },
+  "background changer": {
+   "difficulty": 41,
+   "keyword": "background changer",
+   "popularity": 46,
+   "skipped": false,
+   "success": true
+  },
+  "blur background": {
+   "difficulty": 21,
+   "keyword": "blur background",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "photo restore": {
+   "difficulty": 45,
+   "keyword": "photo restore",
+   "popularity": 21,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "au": {
+  "remove background": {
+   "difficulty": 50,
+   "keyword": "remove background",
+   "popularity": 34,
+   "skipped": false,
+   "success": true
+  },
+  "background remover": {
+   "difficulty": 55,
+   "keyword": "background remover",
+   "popularity": 52,
+   "skipped": false,
+   "success": true
+  },
+  "background eraser": {
+   "difficulty": 23,
+   "keyword": "background eraser",
+   "popularity": 34,
+   "skipped": false,
+   "success": true
+  },
+  "remove bg": {
+   "difficulty": 19,
+   "keyword": "remove bg",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo background remover": {
+   "difficulty": 51,
+   "keyword": "photo background remover",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "transparent background": {
+   "difficulty": 39,
+   "keyword": "transparent background",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cut out photo": {
+   "difficulty": 41,
+   "keyword": "cut out photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cutout": {
+   "difficulty": 19,
+   "keyword": "cutout",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "png maker": {
+   "difficulty": 43,
+   "keyword": "png maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "white background": {
+   "difficulty": 37,
+   "keyword": "white background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "change background": {
+   "difficulty": 45,
+   "keyword": "change background",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "remove background from photo": {
+   "difficulty": 23,
+   "keyword": "remove background from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer": {
+   "difficulty": 47,
+   "keyword": "photo enhancer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo enhancer": {
+   "difficulty": 46,
+   "keyword": "ai photo enhancer",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "image upscaler": {
+   "difficulty": 19,
+   "keyword": "image upscaler",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "upscale image": {
+   "difficulty": 39,
+   "keyword": "upscale image",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "enhance photo quality": {
+   "difficulty": 45,
+   "keyword": "enhance photo quality",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "hd photo": {
+   "difficulty": 44,
+   "keyword": "hd photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo quality enhancer": {
+   "difficulty": 40,
+   "keyword": "photo quality enhancer",
+   "popularity": 10,
+   "skipped": false,
+   "success": true
+  },
+  "increase resolution": {
+   "difficulty": 17,
+   "keyword": "increase resolution",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "unblur photo": {
+   "difficulty": 42,
+   "keyword": "unblur photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "sharpen photo": {
+   "difficulty": 17,
+   "keyword": "sharpen photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix blurry photo": {
+   "difficulty": 36,
+   "keyword": "fix blurry photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "clear photo": {
+   "difficulty": 23,
+   "keyword": "clear photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer ai": {
+   "difficulty": 42,
+   "keyword": "photo enhancer ai",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpg": {
+   "difficulty": 9,
+   "keyword": "heic to jpg",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "heic converter": {
+   "difficulty": 5,
+   "keyword": "heic converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpeg": {
+   "difficulty": 5,
+   "keyword": "heic to jpeg",
+   "popularity": 12,
+   "skipped": false,
+   "success": true
+  },
+  "image converter": {
+   "difficulty": 13,
+   "keyword": "image converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo converter": {
+   "difficulty": 23,
+   "keyword": "photo converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to jpg": {
+   "difficulty": 39,
+   "keyword": "convert photo to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to jpg": {
+   "difficulty": 11,
+   "keyword": "png to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to png": {
+   "difficulty": 11,
+   "keyword": "jpg to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp converter": {
+   "difficulty": 9,
+   "keyword": "webp converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to jpg": {
+   "difficulty": 5,
+   "keyword": "webp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo format converter": {
+   "difficulty": 19,
+   "keyword": "photo format converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert image format": {
+   "difficulty": 13,
+   "keyword": "convert image format",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpeg converter": {
+   "difficulty": 13,
+   "keyword": "jpeg converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo compressor": {
+   "difficulty": 11,
+   "keyword": "photo compressor",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo": {
+   "difficulty": 11,
+   "keyword": "compress photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image compressor": {
+   "difficulty": 9,
+   "keyword": "image compressor",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size": {
+   "difficulty": 15,
+   "keyword": "reduce photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce image size": {
+   "difficulty": 15,
+   "keyword": "reduce image size",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "shrink photo": {
+   "difficulty": 15,
+   "keyword": "shrink photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size reducer": {
+   "difficulty": 17,
+   "keyword": "photo size reducer",
+   "popularity": 12,
+   "skipped": false,
+   "success": true
+  },
+  "compress image": {
+   "difficulty": 13,
+   "keyword": "compress image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress jpeg": {
+   "difficulty": 11,
+   "keyword": "compress jpeg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "make photo smaller": {
+   "difficulty": 44,
+   "keyword": "make photo smaller",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress pictures": {
+   "difficulty": 11,
+   "keyword": "compress pictures",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo": {
+   "difficulty": 17,
+   "keyword": "resize photo",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "image resizer": {
+   "difficulty": 21,
+   "keyword": "image resizer",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo resizer": {
+   "difficulty": 17,
+   "keyword": "photo resizer",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize image": {
+   "difficulty": 21,
+   "keyword": "resize image",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize picture": {
+   "difficulty": 11,
+   "keyword": "resize picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change photo size": {
+   "difficulty": 38,
+   "keyword": "change photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo dimensions": {
+   "difficulty": 23,
+   "keyword": "photo dimensions",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop and resize": {
+   "difficulty": 9,
+   "keyword": "crop and resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for instagram": {
+   "difficulty": 21,
+   "keyword": "resize for instagram",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size": {
+   "difficulty": 42,
+   "keyword": "photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to svg": {
+   "difficulty": 9,
+   "keyword": "image to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to svg": {
+   "difficulty": 9,
+   "keyword": "png to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to svg": {
+   "difficulty": 11,
+   "keyword": "jpg to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorize image": {
+   "difficulty": 13,
+   "keyword": "vectorize image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vector converter": {
+   "difficulty": 21,
+   "keyword": "vector converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg converter": {
+   "difficulty": 15,
+   "keyword": "svg converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "image to vector": {
+   "difficulty": 11,
+   "keyword": "image to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert to svg": {
+   "difficulty": 11,
+   "keyword": "convert to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg maker": {
+   "difficulty": 21,
+   "keyword": "svg maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "logo to vector": {
+   "difficulty": 17,
+   "keyword": "logo to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorizer": {
+   "difficulty": 17,
+   "keyword": "vectorizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object remover": {
+   "difficulty": 41,
+   "keyword": "object remover",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "remove objects from photo": {
+   "difficulty": 40,
+   "keyword": "remove objects from photo",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "magic eraser": {
+   "difficulty": 19,
+   "keyword": "magic eraser",
+   "popularity": 50,
+   "skipped": false,
+   "success": true
+  },
+  "remove people from photo": {
+   "difficulty": 23,
+   "keyword": "remove people from photo",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "remove unwanted objects": {
+   "difficulty": 17,
+   "keyword": "remove unwanted objects",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleanup": {
+   "difficulty": 42,
+   "keyword": "photo cleanup",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "erase objects": {
+   "difficulty": 23,
+   "keyword": "erase objects",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "remove text from photo": {
+   "difficulty": 19,
+   "keyword": "remove text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object eraser": {
+   "difficulty": 43,
+   "keyword": "object eraser",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo restoration": {
+   "difficulty": 38,
+   "keyword": "photo restoration",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "restore old photos": {
+   "difficulty": 41,
+   "keyword": "restore old photos",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "old photo restoration": {
+   "difficulty": 11,
+   "keyword": "old photo restoration",
+   "popularity": 17,
+   "skipped": false,
+   "success": true
+  },
+  "repair old photos": {
+   "difficulty": 11,
+   "keyword": "repair old photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize photo": {
+   "difficulty": 11,
+   "keyword": "colorize photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize black and white": {
+   "difficulty": 7,
+   "keyword": "colorize black and white",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "face restoration": {
+   "difficulty": 9,
+   "keyword": "face restoration",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix old photos": {
+   "difficulty": 11,
+   "keyword": "fix old photos",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo": {
+   "difficulty": 38,
+   "keyword": "passport photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "id photo": {
+   "difficulty": 21,
+   "keyword": "id photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo maker": {
+   "difficulty": 19,
+   "keyword": "passport photo maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo app": {
+   "difficulty": 43,
+   "keyword": "passport photo app",
+   "popularity": 55,
+   "skipped": false,
+   "success": true
+  },
+  "visa photo": {
+   "difficulty": 19,
+   "keyword": "visa photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "id photo maker": {
+   "difficulty": 15,
+   "keyword": "id photo maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "passport size photo": {
+   "difficulty": 42,
+   "keyword": "passport size photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo for documents": {
+   "difficulty": 45,
+   "keyword": "photo for documents",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo editor": {
+   "difficulty": 71,
+   "keyword": "photo editor",
+   "popularity": 70,
+   "skipped": false,
+   "success": true
+  },
+  "photo tools": {
+   "difficulty": 39,
+   "keyword": "photo tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image tools": {
+   "difficulty": 11,
+   "keyword": "image tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo editor": {
+   "difficulty": 65,
+   "keyword": "ai photo editor",
+   "popularity": 61,
+   "skipped": false,
+   "success": true
+  },
+  "picture editor": {
+   "difficulty": 71,
+   "keyword": "picture editor",
+   "popularity": 46,
+   "skipped": false,
+   "success": true
+  },
+  "photo utilities": {
+   "difficulty": 13,
+   "keyword": "photo utilities",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image size": {
+   "difficulty": 21,
+   "keyword": "image size",
+   "popularity": 34,
+   "skipped": false,
+   "success": true
+  },
+  "heic": {
+   "difficulty": 5,
+   "keyword": "heic",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture converter": {
+   "difficulty": 19,
+   "keyword": "picture converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleaner": {
+   "difficulty": 41,
+   "keyword": "photo cleaner",
+   "popularity": 41,
+   "skipped": false,
+   "success": true
+  },
+  "clean up photo": {
+   "difficulty": 40,
+   "keyword": "clean up photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai eraser": {
+   "difficulty": 37,
+   "keyword": "ai eraser",
+   "popularity": 19,
+   "skipped": false,
+   "success": true
+  },
+  "photo eraser": {
+   "difficulty": 43,
+   "keyword": "photo eraser",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "background changer": {
+   "difficulty": 39,
+   "keyword": "background changer",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "blur background": {
+   "difficulty": 17,
+   "keyword": "blur background",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo restore": {
+   "difficulty": 48,
+   "keyword": "photo restore",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  }
+ },
+ "gb": {
+  "remove background": {
+   "difficulty": 57,
+   "keyword": "remove background",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "background remover": {
+   "difficulty": 65,
+   "keyword": "background remover",
+   "popularity": 56,
+   "skipped": false,
+   "success": true
+  },
+  "background eraser": {
+   "difficulty": 44,
+   "keyword": "background eraser",
+   "popularity": 39,
+   "skipped": false,
+   "success": true
+  },
+  "remove bg": {
+   "difficulty": 19,
+   "keyword": "remove bg",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo background remover": {
+   "difficulty": 50,
+   "keyword": "photo background remover",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "transparent background": {
+   "difficulty": 39,
+   "keyword": "transparent background",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cut out photo": {
+   "difficulty": 46,
+   "keyword": "cut out photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "cutout": {
+   "difficulty": 39,
+   "keyword": "cutout",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "png maker": {
+   "difficulty": 21,
+   "keyword": "png maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "white background": {
+   "difficulty": 42,
+   "keyword": "white background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "change background": {
+   "difficulty": 48,
+   "keyword": "change background",
+   "popularity": 10,
+   "skipped": false,
+   "success": true
+  },
+  "remove background from photo": {
+   "difficulty": 39,
+   "keyword": "remove background from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer": {
+   "difficulty": 57,
+   "keyword": "photo enhancer",
+   "popularity": 48,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo enhancer": {
+   "difficulty": 58,
+   "keyword": "ai photo enhancer",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "image upscaler": {
+   "difficulty": 38,
+   "keyword": "image upscaler",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "upscale image": {
+   "difficulty": 17,
+   "keyword": "upscale image",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "enhance photo quality": {
+   "difficulty": 47,
+   "keyword": "enhance photo quality",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "hd photo": {
+   "difficulty": 52,
+   "keyword": "hd photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "photo quality enhancer": {
+   "difficulty": 43,
+   "keyword": "photo quality enhancer",
+   "popularity": 10,
+   "skipped": false,
+   "success": true
+  },
+  "increase resolution": {
+   "difficulty": 13,
+   "keyword": "increase resolution",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "unblur photo": {
+   "difficulty": 23,
+   "keyword": "unblur photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "sharpen photo": {
+   "difficulty": 17,
+   "keyword": "sharpen photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix blurry photo": {
+   "difficulty": 41,
+   "keyword": "fix blurry photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "clear photo": {
+   "difficulty": 23,
+   "keyword": "clear photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo enhancer ai": {
+   "difficulty": 47,
+   "keyword": "photo enhancer ai",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpg": {
+   "difficulty": 9,
+   "keyword": "heic to jpg",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "heic converter": {
+   "difficulty": 9,
+   "keyword": "heic converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "heic to jpeg": {
+   "difficulty": 5,
+   "keyword": "heic to jpeg",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "image converter": {
+   "difficulty": 13,
+   "keyword": "image converter",
+   "popularity": 51,
+   "skipped": false,
+   "success": true
+  },
+  "photo converter": {
+   "difficulty": 17,
+   "keyword": "photo converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert photo to jpg": {
+   "difficulty": 40,
+   "keyword": "convert photo to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to jpg": {
+   "difficulty": 9,
+   "keyword": "png to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to png": {
+   "difficulty": 7,
+   "keyword": "jpg to png",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp converter": {
+   "difficulty": 9,
+   "keyword": "webp converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "webp to jpg": {
+   "difficulty": 5,
+   "keyword": "webp to jpg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo format converter": {
+   "difficulty": 19,
+   "keyword": "photo format converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert image format": {
+   "difficulty": 9,
+   "keyword": "convert image format",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpeg converter": {
+   "difficulty": 15,
+   "keyword": "jpeg converter",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo compressor": {
+   "difficulty": 15,
+   "keyword": "photo compressor",
+   "popularity": 24,
+   "skipped": false,
+   "success": true
+  },
+  "compress photo": {
+   "difficulty": 17,
+   "keyword": "compress photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image compressor": {
+   "difficulty": 19,
+   "keyword": "image compressor",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "reduce photo size": {
+   "difficulty": 19,
+   "keyword": "reduce photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "reduce image size": {
+   "difficulty": 17,
+   "keyword": "reduce image size",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "shrink photo": {
+   "difficulty": 19,
+   "keyword": "shrink photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size reducer": {
+   "difficulty": 19,
+   "keyword": "photo size reducer",
+   "popularity": 12,
+   "skipped": false,
+   "success": true
+  },
+  "compress image": {
+   "difficulty": 15,
+   "keyword": "compress image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress jpeg": {
+   "difficulty": 17,
+   "keyword": "compress jpeg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "make photo smaller": {
+   "difficulty": 21,
+   "keyword": "make photo smaller",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "compress pictures": {
+   "difficulty": 15,
+   "keyword": "compress pictures",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize photo": {
+   "difficulty": 37,
+   "keyword": "resize photo",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "image resizer": {
+   "difficulty": 21,
+   "keyword": "image resizer",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "photo resizer": {
+   "difficulty": 19,
+   "keyword": "photo resizer",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize image": {
+   "difficulty": 40,
+   "keyword": "resize image",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "resize picture": {
+   "difficulty": 15,
+   "keyword": "resize picture",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "change photo size": {
+   "difficulty": 37,
+   "keyword": "change photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo dimensions": {
+   "difficulty": 15,
+   "keyword": "photo dimensions",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "crop and resize": {
+   "difficulty": 11,
+   "keyword": "crop and resize",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "resize for instagram": {
+   "difficulty": 48,
+   "keyword": "resize for instagram",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo size": {
+   "difficulty": 41,
+   "keyword": "photo size",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image to svg": {
+   "difficulty": 9,
+   "keyword": "image to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "png to svg": {
+   "difficulty": 7,
+   "keyword": "png to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "jpg to svg": {
+   "difficulty": 15,
+   "keyword": "jpg to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorize image": {
+   "difficulty": 13,
+   "keyword": "vectorize image",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vector converter": {
+   "difficulty": 17,
+   "keyword": "vector converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg converter": {
+   "difficulty": 15,
+   "keyword": "svg converter",
+   "popularity": 15,
+   "skipped": false,
+   "success": true
+  },
+  "image to vector": {
+   "difficulty": 17,
+   "keyword": "image to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "convert to svg": {
+   "difficulty": 11,
+   "keyword": "convert to svg",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "svg maker": {
+   "difficulty": 15,
+   "keyword": "svg maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "logo to vector": {
+   "difficulty": 13,
+   "keyword": "logo to vector",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "vectorizer": {
+   "difficulty": 17,
+   "keyword": "vectorizer",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object remover": {
+   "difficulty": 51,
+   "keyword": "object remover",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "remove objects from photo": {
+   "difficulty": 46,
+   "keyword": "remove objects from photo",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "magic eraser": {
+   "difficulty": 41,
+   "keyword": "magic eraser",
+   "popularity": 53,
+   "skipped": false,
+   "success": true
+  },
+  "remove people from photo": {
+   "difficulty": 21,
+   "keyword": "remove people from photo",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "remove unwanted objects": {
+   "difficulty": 19,
+   "keyword": "remove unwanted objects",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleanup": {
+   "difficulty": 23,
+   "keyword": "photo cleanup",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "erase objects": {
+   "difficulty": 49,
+   "keyword": "erase objects",
+   "popularity": 7,
+   "skipped": false,
+   "success": true
+  },
+  "remove text from photo": {
+   "difficulty": 19,
+   "keyword": "remove text from photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "object eraser": {
+   "difficulty": 46,
+   "keyword": "object eraser",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo restoration": {
+   "difficulty": 47,
+   "keyword": "photo restoration",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "restore old photos": {
+   "difficulty": 19,
+   "keyword": "restore old photos",
+   "popularity": 14,
+   "skipped": false,
+   "success": true
+  },
+  "old photo restoration": {
+   "difficulty": 15,
+   "keyword": "old photo restoration",
+   "popularity": 13,
+   "skipped": false,
+   "success": true
+  },
+  "repair old photos": {
+   "difficulty": 15,
+   "keyword": "repair old photos",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize photo": {
+   "difficulty": 17,
+   "keyword": "colorize photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "colorize black and white": {
+   "difficulty": 9,
+   "keyword": "colorize black and white",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "face restoration": {
+   "difficulty": 11,
+   "keyword": "face restoration",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "fix old photos": {
+   "difficulty": 41,
+   "keyword": "fix old photos",
+   "popularity": 11,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo": {
+   "difficulty": 42,
+   "keyword": "passport photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "id photo": {
+   "difficulty": 48,
+   "keyword": "id photo",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo maker": {
+   "difficulty": 40,
+   "keyword": "passport photo maker",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "passport photo app": {
+   "difficulty": 50,
+   "keyword": "passport photo app",
+   "popularity": 61,
+   "skipped": false,
+   "success": true
+  },
+  "visa photo": {
+   "difficulty": 21,
+   "keyword": "visa photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "id photo maker": {
+   "difficulty": 35,
+   "keyword": "id photo maker",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "passport size photo": {
+   "difficulty": 40,
+   "keyword": "passport size photo",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo for documents": {
+   "difficulty": 19,
+   "keyword": "photo for documents",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo editor": {
+   "difficulty": 76,
+   "keyword": "photo editor",
+   "popularity": 72,
+   "skipped": false,
+   "success": true
+  },
+  "photo tools": {
+   "difficulty": 21,
+   "keyword": "photo tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image tools": {
+   "difficulty": 9,
+   "keyword": "image tools",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai photo editor": {
+   "difficulty": 80,
+   "keyword": "ai photo editor",
+   "popularity": 68,
+   "skipped": false,
+   "success": true
+  },
+  "picture editor": {
+   "difficulty": 74,
+   "keyword": "picture editor",
+   "popularity": 53,
+   "skipped": false,
+   "success": true
+  },
+  "photo utilities": {
+   "difficulty": 15,
+   "keyword": "photo utilities",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "image size": {
+   "difficulty": 15,
+   "keyword": "image size",
+   "popularity": 48,
+   "skipped": false,
+   "success": true
+  },
+  "heic": {
+   "difficulty": 13,
+   "keyword": "heic",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "picture converter": {
+   "difficulty": 19,
+   "keyword": "picture converter",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "photo cleaner": {
+   "difficulty": 48,
+   "keyword": "photo cleaner",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "clean up photo": {
+   "difficulty": 44,
+   "keyword": "clean up photo",
+   "popularity": 5,
+   "skipped": false,
+   "success": true
+  },
+  "ai eraser": {
+   "difficulty": 50,
+   "keyword": "ai eraser",
+   "popularity": 18,
+   "skipped": false,
+   "success": true
+  },
+  "photo eraser": {
+   "difficulty": 51,
+   "keyword": "photo eraser",
+   "popularity": 8,
+   "skipped": false,
+   "success": true
+  },
+  "background changer": {
+   "difficulty": 49,
+   "keyword": "background changer",
+   "popularity": 47,
+   "skipped": false,
+   "success": true
+  },
+  "blur background": {
+   "difficulty": 23,
+   "keyword": "blur background",
+   "popularity": 6,
+   "skipped": false,
+   "success": true
+  },
+  "photo restore": {
+   "difficulty": 40,
+   "keyword": "photo restore",
+   "popularity": 9,
+   "skipped": false,
+   "success": true
+  }
+ }
+}
