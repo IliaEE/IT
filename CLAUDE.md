@@ -26,6 +26,7 @@ Expo Go is enough: every native module used here ships in it. `.claude/launch.js
 - `src/app/` — Expo Router screens: `index` (home), `convert`, `size`, `compress`; `_layout` loads Inter and the Stack.
 - `src/ui/` — design-system components (Button, Card, Chip, Segmented, Slider, ResultSheet…). Import from `@/ui`.
 - `src/lib/image.ts` — the processing engine on top of `expo-image-manipulator`; `pdf.ts` (expo-print), `save.ts` (Photos / share / web download).
+- `src/lib/naming.ts` — every output is `image-tools-<tool>-<YYYY-MM-DD>[-<n>].<ext>`; `save.ts` copies the temp file under that name before Photos / share so the name survives.
 - `src/lib/dpi.ts` — DPI is metadata the manipulator cannot write, so this patches the bytes: JFIF APP0 density, EXIF IFD0 X/YResolution + ResolutionUnit, Photoshop 8BIM 0x03ED, PNG pHYs. All three JPEG records are kept in sync because ImageIO prefers EXIF over JFIF.
 - `src/ui/FitCanvas.tsx` — native "fit to ratio": the manipulator's `extent` is web-only, so native renders the photo in an offscreen view and snapshots it with `react-native-view-shot` (`useRenderInContext`, no explicit size — output = view dp × PixelRatio).
 - `src/theme/tokens.ts` — colours, type scale, radii, springs. Derived from `docs/design-reference-revolut.md`.

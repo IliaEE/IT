@@ -6,6 +6,7 @@ import { Button, EmptyPicker, Header, ImagePreview, ResultSheet, Screen, Section
 import { compressToQuality, pickImages, type Picked, type Processed } from '@/lib/image';
 import { saveToPhotos, shareFile } from '@/lib/save';
 import { formatBytes, savings } from '@/lib/format';
+import { outputName } from '@/lib/naming';
 
 export default function Compress() {
   const [image, setImage] = useState<Picked | null>(null);
@@ -106,8 +107,9 @@ export default function Compress() {
             { label: 'After', value: formatBytes(result.size) },
             { label: 'Saved', value: savings(image.size, result.size), tone: 'success' },
           ]}
-          primary={{ title: 'Save to Photos', icon: 'download', onPress: () => saveToPhotos([result.uri], 'compressed.jpg') }}
-          secondary={{ title: 'Share', icon: 'share', onPress: () => shareFile(result.uri, { name: 'compressed.jpg' }) }}
+          filename={outputName('compress', 'jpg')}
+          primary={{ title: 'Save to Photos', icon: 'download', onPress: () => saveToPhotos([{ uri: result.uri, name: outputName('compress', 'jpg') }]) }}
+          secondary={{ title: 'Share', icon: 'share', onPress: () => shareFile({ uri: result.uri, name: outputName('compress', 'jpg') }) }}
           onReset={reset}
         />
       ) : null}

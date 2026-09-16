@@ -5,6 +5,7 @@ import { convert, pickImages, type OutputFormat, type Picked, type Processed } f
 import { imagesToPdf, type PdfResult } from '@/lib/pdf';
 import { saveToPhotos, shareFile } from '@/lib/save';
 import { formatBytes, formatDims } from '@/lib/format';
+import { outputName } from '@/lib/naming';
 
 type Format = OutputFormat | 'pdf';
 type Result = { kind: 'images'; items: Processed[] } | { kind: 'pdf'; pdf: PdfResult };
@@ -100,8 +101,13 @@ export default function Convert() {
             { label: 'Before', value: formatBytes(totalIn) },
             { label: 'After', value: formatBytes(result.items.reduce((s, i) => s + i.size, 0)) },
           ]}
-          primary={{ title: 'Save to Photos', icon: 'download', onPress: () => saveToPhotos(result.items.map((i) => i.uri), `converted.${format}`) }}
-          secondary={result.items.length === 1 ? { title: 'Share', icon: 'share', onPress: () => shareFile(result.items[0].uri, { name: `converted.${format}` }) } : undefined}
+          filename={outputName('convert', format, 0, result.items.length)}
+          primary={{
+            title: 'Save to Photos',
+            icon: 'download',
+            onPress: () => saveToPhotos(result.items.map((it, i) => ({ uri: it.uri, name: outputName('convert', format, i, result.items.length) }))),
+          }}
+          secondary={result.items.length === 1 ? { title: 'Share', icon: 'share', onPress: () => shareFile({ uri: result.items[0].uri, name: outputName('convert', format) }) } : undefined}
           onReset={reset}
         />
       ) : null}
@@ -113,7 +119,12 @@ export default function Convert() {
             { label: 'Pages', value: String(result.pdf.pages) },
             { label: 'Size', value: formatBytes(result.pdf.size) },
           ]}
-          primary={{ title: 'Save or share PDF', icon: 'share', onPress: () => shareFile(result.pdf.uri, { name: 'photos.pdf', mimeType: 'application/pdf', uti: 'com.adobe.pdf' }) }}
+          filename={outputName('convert', 'pdf')}
+          primary={{
+            title: 'Save or share PDF',
+            icon: 'share',
+            onPress: () => shareFile({ uri: result.pdf.uri, name: outputName('convert', 'pdf') }, { mimeType: 'application/pdf', uti: 'com.adobe.pdf' }),
+          }}
           onReset={reset}
         />
       ) : null}

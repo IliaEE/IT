@@ -7,6 +7,7 @@ import { containBox, fileSize, padOnWeb, pickImages, resize, type Picked, type P
 import { applyDpi } from '@/lib/dpi';
 import { saveToPhotos, shareFile } from '@/lib/save';
 import { formatBytes, formatDims } from '@/lib/format';
+import { outputName } from '@/lib/naming';
 
 type Mode = 'resize' | 'fit';
 type Dims = { width: number; height: number };
@@ -239,8 +240,13 @@ export default function Size() {
                   { label: dpi ? 'DPI' : 'Size', value: dpi ? String(dpi) : formatBytes(results[0].size) },
                 ]
           }
-          primary={{ title: many ? 'Save all to Photos' : 'Save to Photos', icon: 'download', onPress: () => saveToPhotos(results.map((r) => r.uri), `resized.${results[0].format}`) }}
-          secondary={many ? undefined : { title: 'Share', icon: 'share', onPress: () => shareFile(results[0].uri, { name: `resized.${results[0].format}` }) }}
+          filename={outputName(mode, results[0].format, 0, results.length)}
+          primary={{
+            title: many ? 'Save all to Photos' : 'Save to Photos',
+            icon: 'download',
+            onPress: () => saveToPhotos(results.map((r, i) => ({ uri: r.uri, name: outputName(mode, r.format, i, results.length) }))),
+          }}
+          secondary={many ? undefined : { title: 'Share', icon: 'share', onPress: () => shareFile({ uri: results[0].uri, name: outputName(mode, results[0].format) }) }}
           onReset={reset}
         />
       ) : null}

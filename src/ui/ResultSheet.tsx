@@ -16,10 +16,11 @@ type Props = {
   primary: { title: string; icon?: 'download' | 'share'; onPress: () => Promise<void> | void };
   secondary?: { title: string; icon?: 'download' | 'share'; onPress: () => Promise<void> | void };
   onReset: () => void;
+  filename?: string;
 };
 
 // Slides up once a job completes. Cobalt appears exactly once: on the check mark.
-export function ResultSheet({ title, stats, primary, secondary, onReset }: Props) {
+export function ResultSheet({ title, stats, primary, secondary, onReset, filename }: Props) {
   const [busy, setBusy] = useState<'primary' | 'secondary' | null>(null);
   const [done, setDone] = useState(false);
 
@@ -47,6 +48,9 @@ export function ResultSheet({ title, stats, primary, secondary, onReset }: Props
             <Stat key={s.label} label={s.label} value={s.value} tone={s.tone} />
           ))}
         </View>
+        {filename ? (
+          <Text variant="caption" tone="faint" numberOfLines={1}>{filename}</Text>
+        ) : null}
         <View style={styles.actions}>
           <Button
             title={done ? 'Saved' : primary.title}
