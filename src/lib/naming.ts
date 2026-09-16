@@ -1,4 +1,4 @@
-export type ToolName = 'convert' | 'resize' | 'fit' | 'compress';
+export type ToolName = 'convert' | 'resize' | 'fit' | 'compress' | 'blur';
 
 // Every file the app hands out is named image-tools-<tool>-<date>[-<n>].<ext>,
 // so a user can tell in Files, Photos or a chat what produced it and when.

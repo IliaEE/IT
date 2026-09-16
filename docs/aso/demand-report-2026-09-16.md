@@ -112,17 +112,19 @@
 ### 5.3 Итоговый состав MVP — статус реализации (2026-09-17)
 
 Правило проекта: в приложение попадает только то, что подтверждено цифрами выше. Всё локально, без сервера и без AI.
+**Порог с 2026-09-17: popularity > 40 хотя бы в одном из четырёх рынков** для новых функций. Ниже порога, но уже в приложении: Compress (photo compressor 24–25), DPI (24), batch resize (14) — оставлены до отдельного решения.
 
 | Инструмент | Что внутри | Ключи | Статус |
 |---|---|---|---|
 | **Convert** | HEIC/JPG/PNG ↔, фото → PDF (несколько фото в один PDF) | image converter, photo converter, heic to jpg, photo to pdf, jpg to pdf, photos to pdf | ✅ реализовано |
 | **Image Size** | resize (% / пресеты / свой размер), **batch** — та же настройка на несколько фото, **square fit / no-crop**, **DPI** (JFIF + EXIF + Photoshop-блок) | image size, batch resize, square fit, dpi, resize | ✅ реализовано |
 | **Compress** | слайдер качества с live-оценкой размера | photo compressor, reduce photo size, photo size reducer | ✅ реализовано |
+| **Blur** | кисть: мазки пальцем размывают только закрашенное, сила блюра регулируется, экспорт в полном разрешении (Skia) | blur photo 55 US / 58 GB / 32 CA, pixelate 8–9 везде | ✅ реализовано 2026-09-17 |
 
 Убрано из первого прототипа как не подтверждённое данными: rotate / flip (U3 — пол везде), WebP на выходе (webp converter 5/15, webp to jpg 5/7), режим «до N KB» в Compress (U12 — пол во всех четырёх рынках).
 Не реализовано, хотя сигнал есть: Live Photo → video (20/23 только в US, 5 в остальных) — ждём подтверждения на других рынках.
 
-v1.x кандидаты (все локальные, дешёвые, подтверждены): EXIF viewer / metadata remover → Watermark → Blur / Pixelate.
+Ниже порога 40 и поэтому не делаются: watermark (26), EXIF / metadata (24), crop (13), border (8), stitch (21), Live Photo → video (20, только US), OCR (16, чужой интент).
 
 Вне проекта: всё AI (remove bg, enhance, eraser, restore, vectorize), passport photo, timestamp camera, gif maker.
 

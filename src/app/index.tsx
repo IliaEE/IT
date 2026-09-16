@@ -17,6 +17,7 @@ const tools: Tool[] = [
   { href: '/convert', icon: 'repeat', title: 'Convert', desc: 'HEIC to JPG or PNG — or a PDF from any photos.', featured: true },
   { href: '/size', icon: 'maximize-2', title: 'Image Size', desc: 'Resize one photo or a batch. Fit any ratio without cropping. Set DPI.' },
   { href: '/compress', icon: 'minimize-2', title: 'Compress', desc: 'Smaller files, same photo. See the size as you drag.' },
+  { href: '/blur', icon: 'droplet', title: 'Blur', desc: 'Paint over faces, plates or text. Dial the strength.' },
 ];
 
 export default function Home() {
