@@ -5,7 +5,7 @@ import Animated, { FadeIn, ZoomIn } from 'react-native-reanimated';
 import { Blur, Canvas, Group, Image as SkiaImage, Mask, Path, Skia, type SkImage } from '@shopify/react-native-skia';
 import { Feather } from '@expo/vector-icons';
 import { colors, radius, space } from '@/theme/tokens';
-import { Button, Chip, EmptyPicker, Header, ImagePreview, ResultSheet, ScalePressable, Screen, Section, Slider, Text } from '@/ui';
+import { Button, EmptyPicker, Header, ImagePreview, ResultSheet, ScalePressable, Screen, Section, Slider, Text } from '@/ui';
 import { convert, pickImages, type Picked, type Processed } from '@/lib/image';
 import { readBytes } from '@/lib/files';
 import { exportBlur, strokePath, type Stroke } from '@/lib/blur';
@@ -13,11 +13,8 @@ import { saveToPhotos, shareFile } from '@/lib/save';
 import { outputName } from '@/lib/naming';
 import { formatBytes, formatDims } from '@/lib/format';
 
-const brushes = [
-  { key: 24, label: 'Fine' },
-  { key: 44, label: 'Medium' },
-  { key: 72, label: 'Wide' },
-];
+const BRUSH_MIN = 8;
+const BRUSH_MAX = 100;
 
 const MAX_CANVAS_HEIGHT = 380;
 
@@ -47,7 +44,8 @@ export default function BlurScreen() {
   }, [image]);
   const [strokes, setStrokes] = useState<Stroke[]>([]);
   const [strength, setStrength] = useState(0.5);
-  const [brush, setBrush] = useState(44);
+  const [brushT, setBrushT] = useState(0.4);
+  const brush = Math.round(BRUSH_MIN + brushT * (BRUSH_MAX - BRUSH_MIN));
   const [busy, setBusy] = useState(false);
   const [result, setResult] = useState<Processed | null>(null);
 
@@ -156,11 +154,15 @@ export default function BlurScreen() {
               <Text variant="headingSm" style={styles.sliderValue}>{Math.round(strength * 100)}%</Text>
             </View>
           </Section>
-          <Section label="Brush" delay={40}>
-            <View style={styles.wrap}>
-              {brushes.map((b) => (
-                <Chip key={b.key} label={b.label} selected={brush === b.key} onPress={() => setBrush(b.key)} />
-              ))}
+          <Section label="Brush size" delay={40}>
+            <View style={styles.sliderRow}>
+              <View style={{ flex: 1 }}>
+                <Slider value={brushT} onChange={setBrushT} />
+              </View>
+              <View style={styles.brushPreview}>
+                <View style={[styles.brushDot, { width: brush * 0.4, height: brush * 0.4 }]} />
+              </View>
+              <Text variant="headingSm" style={styles.sliderValue}>{brush}</Text>
             </View>
           </Section>
         </>
@@ -199,6 +201,7 @@ const styles = StyleSheet.create({
   stageActions: { flexDirection: 'row', gap: space.xs },
   iconBtn: { flexDirection: 'row', alignItems: 'center', gap: 6, height: 36, paddingHorizontal: 12, borderRadius: radius.full, backgroundColor: colors.surface },
   sliderRow: { flexDirection: 'row', alignItems: 'center', gap: space.lg },
-  sliderValue: { width: 56, textAlign: 'right' },
-  wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: space.sm },
+  sliderValue: { width: 60, textAlign: 'right' },
+  brushPreview: { width: 40, height: 40, alignItems: 'center', justifyContent: 'center' },
+  brushDot: { borderRadius: radius.full, backgroundColor: colors.onDark },
 });
